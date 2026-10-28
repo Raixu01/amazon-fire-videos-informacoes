@@ -1,9 +1,27 @@
 <!doctype html><html lang="pt-BR"><body><template>
-<div id="e2-s0" data-composition-id="e2-s0" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="two"><div class="stack"><div class="eyebrow accent">ENTENDA O CONTEXTO</div><h1>Por que falar de fogo agora?</h1><p class=lead>A estiagem deixa a vegetação mais vulnerável.</p></div><div class="mapbox"><img class="map" src="assets/overview.svg" alt="Amazônia Legal com o Xingu destacado"></div></div></div></div></div>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e2-s0" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="two">
+      <div class="stack">
+        <div class="eyebrow">ÉPOCA DE MENOS CHUVA</div>
+        <h1 style="font-size:100px"><span class="bw-wrap "><span class="bw">Por</span> <span class="bw">que</span> <span class="bw">agora?</span></span></h1>
+        <p class="support-line">Estamos no período de estiagem na Amazônia Legal.</p>
+      </div>
+      <div class="map-card">
+        <img src="assets/overview-empty.svg" alt="Mapa da Amazônia Legal vazio">
+      </div>
+    </div></div></div>
+</div>
 <script>
-(()=>{const el=document.getElementById('e2-s0');const tl=gsap.timeline({paused:true});
-tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
-el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
-el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
-window.__timelines['e2-s0']=tl;})();
-</script></template></body></html>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e2-s0"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.1);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e2-s0'] = tl;
+})();
+</script>
+</template></body></html>

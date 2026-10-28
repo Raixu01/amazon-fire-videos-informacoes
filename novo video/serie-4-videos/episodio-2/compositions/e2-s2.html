@@ -1,9 +1,53 @@
 <!doctype html><html lang="pt-BR"><body><template>
-<div id="e2-s2" data-composition-id="e2-s2" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="two"><div class="stack"><div class="eyebrow accent">CLIMA E RISCO</div><h1>El Niño pode favorecer a seca.</h1><p class=lead>Menos chuva pode facilitar a propagação do fogo.</p></div><div class="stack"><div class="eyebrow green">OUTUBRO DE 2026</div><div class="large accent">El Niño em curso</div><div class="note">Condição confirmada pela NOAA em 08/10/2026.</div><div class="tag">2023–2024: episódio anterior</div></div></div></div></div></div>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e2-s2" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="two">
+      <div class="stack">
+        <div class="chip amber">Setembro e outubro 2026 • UTC</div>
+        <h1><span class="bw-wrap "><span class="bw">1</span> <span class="bw">ponto</span> <span class="bw">=</span> <span class="bw">1</span> <span class="bw">foco</span> <span class="bw">de</span> <span class="bw">calor</span> <span class="bw">detectado</span></span></h1>
+        <p class="support-line">Não é um incêndio contado um a um, nem área queimada.</p>
+        <div class="halo-box" id="e2-s2-batch-label" style="opacity:0">
+          <div class="eyebrow accent" style="margin-bottom:6px" id="e2-s2-month-kicker">LOTES MENSAIS (AQUA_M-T)</div>
+          <p style="font-size:36px;font-weight:700">Setembro completo + 1 a 26 de outubro de 2026</p>
+        </div>
+      </div>
+      <div class="map-card">
+        <!-- Estado 1: Ponto ampliado didático -->
+        <div id="e2-s2-lesson" style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:28px;background:#153137;border:2px solid #ffc277;border-radius:20px">
+          <div style="width:92px;height:92px;border-radius:50%;background:#ffc277;box-shadow:0 0 0 22px rgba(255,194,119,0.22)"></div>
+          <h2 class="accent" style="font-size:52px">1 foco detectado pelo satélite</h2>
+          <p class="muted" style="font-size:32px">Passagem do sensor AQUA_M-T</p>
+        </div>
+        <!-- Estado 2: Lote Setembro 2026 -->
+        <div id="e2-s2-sep" style="position:absolute;inset:0;opacity:0">
+          <img src="assets/overview-sep2026.svg" alt="Focos em setembro de 2026 na Amazônia Legal">
+          <div class="chip amber" style="position:absolute;left:24px;top:20px">Setembro 2026 • Lote mensal</div>
+        </div>
+        <!-- Estado 3: Lote Outubro 1-26 2026 -->
+        <div id="e2-s2-oct" style="position:absolute;inset:0;opacity:0">
+          <img src="assets/overview-oct2026.svg" alt="Focos em 1 a 26 de outubro de 2026 na Amazônia Legal">
+          <div class="chip amber" style="position:absolute;left:24px;top:20px">Outubro 2026 (1–26/10 • UTC)</div>
+        </div>
+      </div>
+    </div></div></div>
+</div>
 <script>
-(()=>{const el=document.getElementById('e2-s2');const tl=gsap.timeline({paused:true});
-tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
-el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
-el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
-window.__timelines['e2-s2']=tl;})();
-</script></template></body></html>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e2-s2"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.1);
+    // T2 swap 1: Legenda do ponto -> Lote de Setembro 2026 (t=4.4s)
+    tl.to('#e2-s2-lesson', {opacity:0, filter:'blur(8px)', duration:0.2, ease:'power2.in'}, 4.4);
+    tl.fromTo('#e2-s2-sep', {opacity:0, filter:'blur(8px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, ease:'power2.out'}, 4.6);
+    tl.fromTo('#e2-s2-batch-label', {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.2, ease:'power2.out'}, 4.6);
+    // T2 swap 2: Lote de Setembro -> Lote de Outubro 1-26 2026 (t=8.8s)
+    tl.to('#e2-s2-sep', {opacity:0, filter:'blur(8px)', duration:0.2, ease:'power2.in'}, 8.8);
+    tl.fromTo('#e2-s2-oct', {opacity:0, filter:'blur(8px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, ease:'power2.out'}, 9.0);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e2-s2'] = tl;
+})();
+</script>
+</template></body></html>

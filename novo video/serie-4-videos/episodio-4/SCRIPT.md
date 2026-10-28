@@ -1,9 +1,13 @@
-[00–07s] No Xingu, o que mudou de dois mil e vinte e cinco para dois mil e vinte e seis?
+[0–7s] Comparamos o mesmo período nos dois anos: setembro e vinte e seis dias de outubro.
 
-[07–22s] Comparando setembro e os mesmos vinte e seis dias de outubro, os registros passaram de mil cento e treze para três mil seiscentos e oitenta e oito: um aumento de duzentos e trinta e um por cento.
+[7–12.5s] Dois mil e vinte e cinco: mil cento e treze focos.
 
-[22–35s] Em dois mil e vinte e cinco, não havia El Niño nesse período. Agora, há. O fenômeno aumenta o risco climático, mas não explica sozinho o aumento dos focos.
+[13.0–19s] Dois mil e vinte e seis: três mil seiscentos e oitenta e oito.
 
-[35–49s] A Lei de Crimes Ambientais tipifica provocar incêndio em floresta ou em demais formas de vegetação.
+[19–26s] Um aumento de duzentos e trinta e um por cento.
 
-[49–60s] O alerta merece atenção. Acompanhe as orientações oficiais: prevenir incêndios é proteger a floresta, a saúde e quem vive aqui.
+[26–37s] Em dois mil e vinte e cinco não havia El Niño. Agora há. Ele aumenta o risco, mas não explica sozinho.
+
+[37–47s] A lei trata como crime provocar incêndio em floresta ou em outras formas de vegetação.
+
+[47–60s] O alerta merece atenção. Acompanhe as orientações oficiais: prevenir é proteger a floresta, a saúde e quem vive aqui.

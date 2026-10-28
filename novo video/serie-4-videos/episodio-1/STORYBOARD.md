@@ -1,50 +1,53 @@
 ---
 format: 1920x1080
 duration: 60s
-message: Você também recebeu esse aviso?
+message: O aviso é sobre a fumaça.
 ---
 
-## Frame 1 — Cena 1 (0–8s)
+## Frame 1 — Cena 1 (0–6s)
 
 - status: built
 - src: compositions/e1-s0.html
-- duration: 8s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 6s
 
-Você também recebeu esta mensagem no celular? Sua região está sob alerta de incêndios.
+Você recebeu este aviso no celular? Sua região está sob alerta de incêndios.
 
-## Frame 2 — Cena 2 (8–20s)
+## Frame 2 — Cena 2 (6–16s)
 
 - status: built
 - src: compositions/e1-s1.html
-- duration: 12s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 10s
 
-O aviso chama atenção para um risco que pode chegar até a nossa casa: a fumaça. E traz cuidados para reduzir a exposição.
+O recado é sobre a fumaça. Ela pode chegar até a nossa casa.
 
-## Frame 3 — Cena 3 (20–34s)
+## Frame 3 — Cena 3 (16–28s)
 
 - status: built
 - src: compositions/e1-s2.html
-- duration: 14s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 12s
 
-Na estiagem, a vegetação fica mais seca e o fogo encontra condições para se espalhar. Na Amazônia, esse é um período que exige atenção.
+Mas de onde vem a fumaça? Do fogo. E, na estiagem, ele se espalha com mais facilidade.
 
-## Frame 4 — Cena 4 (34–49s)
+## Frame 4 — Cena 4 (28–42s)
 
 - status: built
 - src: compositions/e1-s3.html
-- duration: 15s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 14s
 
-A fumaça pode afetar a respiração, principalmente de crianças, idosos e pessoas com doenças respiratórias. Por isso, acompanhar os avisos oficiais é uma forma de se proteger.
+Vegetação seca, fogo, fumaça. Ela afeta a respiração, principalmente de crianças e idosos.
 
-## Frame 5 — Cena 5 (49–60s)
+## Frame 5 — Cena 5 (42–52s)
 
 - status: built
 - src: compositions/e1-s4.html
-- duration: 11s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 10s
 
-O que está acontecendo por aqui? No próximo vídeo, os mapas dos satélites ajudam a entender o cenário.
+Por isso, vale acompanhar os avisos oficiais.
+
+## Frame 6 — Cena 6 (52–60s)
+
+- status: built
+- src: compositions/e1-s5.html
+- duration: 8s
+
+E aqui na região, o que os satélites mostram? No próximo vídeo, o mapa.

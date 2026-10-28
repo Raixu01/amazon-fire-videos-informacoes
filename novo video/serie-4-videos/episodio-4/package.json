@@ -1,5 +1,5 @@
 {
-  "name": "pulso-xingu-episodio-4",
+  "name": "pulso-xingu-v2-episodio-4",
   "private": true,
   "scripts": {
     "check": "hyperframes check",

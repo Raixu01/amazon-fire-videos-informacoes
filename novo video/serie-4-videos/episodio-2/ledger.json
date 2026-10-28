@@ -1,0 +1,61 @@
+{
+  "episode": 2,
+  "title": "A época",
+  "question": "Por que o fogo preocupa agora?",
+  "closing_line": "O clima aumenta o risco. Não explica tudo.",
+  "seams": [
+    {
+      "cut": "V2 c5->c6",
+      "episode": 2,
+      "from_scene": "e2-s4",
+      "to_scene": "e2-s5",
+      "time_sec": 53,
+      "transition": "T1",
+      "exit_direction": "Z+",
+      "enter_direction": "Z+",
+      "carrier": "ponto âmbar",
+      "anchor_px": {
+        "x": 1340,
+        "y": 490
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "e2-s0",
+      "start": 0,
+      "end": 7,
+      "word_count": 12
+    },
+    {
+      "id": "e2-s1",
+      "start": 7,
+      "end": 18,
+      "word_count": 16
+    },
+    {
+      "id": "e2-s2",
+      "start": 18,
+      "end": 32,
+      "word_count": 19
+    },
+    {
+      "id": "e2-s3",
+      "start": 32,
+      "end": 44,
+      "word_count": 19
+    },
+    {
+      "id": "e2-s4",
+      "start": 44,
+      "end": 53,
+      "word_count": 12
+    },
+    {
+      "id": "e2-s5",
+      "start": 53,
+      "end": 60,
+      "word_count": 9
+    }
+  ]
+}

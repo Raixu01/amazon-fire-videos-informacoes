@@ -1,83 +1,63 @@
 1
-00:00:00,353 --> 00:00:05,578
-No Xingu, alguns dias tiveram muito mais focos
+00:00:00,293 --> 00:00:04,256
+No Xingu, o fogo não aparece igual
 
 2
-00:00:05,578 --> 00:00:05,973
-do que outros.
+00:00:04,256 --> 00:00:05,365
+todos os dias.
 
 3
-00:00:08,316 --> 00:00:11,976
-O recorte reúne dez municípios.
+00:00:07,294 --> 00:00:10,792
+Cada barra é um dia.
 
 4
-00:00:11,976 --> 00:00:14,470
-Selecionamos os três maiores picos de cada mês.
+00:00:10,792 --> 00:00:14,346
+Algumas se destacam bem mais que as
 
 5
-00:00:15,352 --> 00:00:17,680
-Treze de setembro:
+00:00:15,293 --> 00:00:18,740
+Em setembro, o maior pico:
 
 6
-00:00:17,680 --> 00:00:19,470
-cento e um focos.
+00:00:18,740 --> 00:00:22,310
+dia vinte e um, cento e quarenta
 
 7
-00:00:20,342 --> 00:00:22,868
-Vinte e um de setembro:
+00:00:22,310 --> 00:00:22,567
+e nove focos.
 
 8
-00:00:22,868 --> 00:00:24,470
-cento e quarenta e nove.
+00:00:31,293 --> 00:00:34,725
+Em outubro, até o dia vinte e
 
 9
-00:00:25,357 --> 00:00:28,347
-Vinte e seis de setembro:
+00:00:34,725 --> 00:00:38,500
+seis, o maior foi dia nove:
 
 10
-00:00:28,347 --> 00:00:29,446
-cento e oito.
+00:00:38,500 --> 00:00:39,513
+trezentos e trinta e seis.
 
 11
-00:00:30,336 --> 00:00:32,066
-Nove de outubro:
+00:00:42,298 --> 00:00:46,186
+Só Altamira teve cento e quatro nesse
 
 12
-00:00:32,066 --> 00:00:34,470
-trezentos e trinta e seis focos.
+00:00:46,186 --> 00:00:48,124
+dia.
 
 13
-00:00:35,351 --> 00:00:37,414
-Doze de outubro:
-
-14
-00:00:37,414 --> 00:00:39,470
-trezentos e quatorze.
-
-15
-00:00:40,332 --> 00:00:42,824
-Vinte e cinco de outubro:
-
-16
-00:00:42,824 --> 00:00:44,470
-duzentos e noventa e sete.
-
-17
-00:00:45,338 --> 00:00:49,863
-Em nove de outubro, Altamira registrou cento e
-
-18
-00:00:49,863 --> 00:00:52,613
-quatro focos.
-
-19
-00:00:52,613 --> 00:00:53,470
+00:00:48,124 --> 00:00:49,830
 Focos não medem área queimada.
 
-20
-00:00:54,350 --> 00:00:57,670
-E como esse cenário se compara ao de
+14
+00:00:50,297 --> 00:00:54,351
+Houve outros dias altos.
 
-21
-00:00:57,670 --> 00:00:59,470
-dois mil e vinte e cinco?
+15
+00:00:54,351 --> 00:00:57,299
+E como isso se compara a dois
+
+16
+00:00:57,299 --> 00:00:57,836
+mil e vinte e cinco?

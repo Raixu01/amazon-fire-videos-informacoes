@@ -1,59 +1,61 @@
 ---
 format: 1920x1080
 duration: 60s
-message: Os dias em que o Xingu concentrou mais focos
+message: Poucos dias concentraram muitos focos.
 ---
 
-## Frame 1 — Cena 1 (0–8s)
+## Frame 1 — Cena 1 (0–7s)
 
 - status: built
 - src: compositions/e3-s0.html
-- duration: 8s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 7s
 
-No Xingu, alguns dias tiveram muito mais focos do que outros.
+No Xingu, o fogo não aparece igual todos os dias.
 
-## Frame 2 — Cena 2 (8–15s)
+## Frame 2 — Cena 2 (7–15s)
 
 - status: built
 - src: compositions/e3-s1.html
-- duration: 7s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 8s
 
-O recorte reúne dez municípios. Selecionamos os três maiores picos de cada mês.
+Cada barra é um dia. Algumas se destacam bem mais que as outras.
 
-## Frame 3 — Cena 3 (15–30s)
+## Frame 3 — Cena 3 (15–26s)
 
 - status: built
 - src: compositions/e3-s2.html
-- duration: 15s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 11s
 
-Em setembro, os destaques foram os dias treze, vinte e um e vinte e seis. O maior pico ocorreu no dia vinte e um: cento e quarenta e nove focos.
+Em setembro, o maior pico: dia vinte e um, cento e quarenta e nove focos.
 
-## Frame 4 — Cena 4 (30–45s)
+## Frame 4 — Cena 4 (26–31s)
 
 - status: built
 - src: compositions/e3-s3.html
-- duration: 15s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 5s
 
-Em outubro, até o dia vinte e seis, os maiores totais foram nos dias nove, doze e vinte e cinco. O dia nove teve trezentos e trinta e seis focos.
+(Respiro visual — sem locução)
 
-## Frame 5 — Cena 5 (45–54s)
+## Frame 5 — Cena 5 (31–42s)
 
 - status: built
 - src: compositions/e3-s4.html
-- duration: 9s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 11s
 
-Em nove de outubro, Altamira registrou cento e quatro focos. Focos não medem área queimada.
+Em outubro, até o dia vinte e seis, o maior foi dia nove: trezentos e trinta e seis.
 
-## Frame 6 — Cena 6 (54–60s)
+## Frame 6 — Cena 6 (42–50s)
 
 - status: built
 - src: compositions/e3-s5.html
-- duration: 6s
-- motion: stat-bars-and-fills / deterministic opacity entrance
+- duration: 8s
 
-E como esse cenário se compara ao de dois mil e vinte e cinco?
+Só Altamira teve cento e quatro nesse dia. Focos não medem área queimada.
+
+## Frame 7 — Cena 7 (50–60s)
+
+- status: built
+- src: compositions/e3-s6.html
+- duration: 10s
+
+Houve outros dias altos. E como isso se compara a dois mil e vinte e cinco?

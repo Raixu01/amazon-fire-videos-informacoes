@@ -1,30 +1,25 @@
 ---
-workflow: general-video
-flow: automation
-storyboard: no
+workflow: hyperframes
+flow: storyboard-v2
+storyboard: ../STORYBOARD-V2.md
 length: 4 x 60s
 format: 1920x1080
+fps: 30
 ---
 
-Executar o storyboard aprovado em `../STORYBOARD-4-VIDEOS.md` e entregar quatro MP4 independentes. Pedido explícito de construção e exportação recebido em 27/10/2026. A renderização está autorizada pelo pedido do usuário.
+Executar o storyboard aprovado em `../STORYBOARD-V2.md` usando as skills do HyperFrames (`/hyperframes`, `/hyperframes-cli`, `/hyperframes-registry`, `/media-use`) e entregar quatro MP4 independentes em `renders/`.
 
-Público: moradores do Xingu. Linguagem cotidiana, uma ideia por cena, fontes grandes, locução brasileira e legendas embutidas. Usar mapa e dados locais do snapshot validado, sem novos números. Outubro parcial até dia 26, UTC. Captura de aviso de 11/10, nome oculto. Não atribuir os registros posteriores como motivo do envio anterior.
+Público: moradores do Xingu, sem conhecimento técnico. Baixa carga cognitiva, narrativa contínua guiada pelo ponto âmbar, uma ideia por cena, fala ≤ 19 palavras por cena, locução brasileira offline e legendas embutidas. Snapshot validado `xingu-74d0fdff5980abae3d40` (setembro completo e 1–26/10/2026 em UTC).
 
 ## Design
 
-Fundo azul-petróleo #10282d, texto marfim #f5f1e8, âmbar #ffc277 e verde claro #abd5bd. Segoe UI local, títulos em peso 700. Título 72–104px, texto 40–48px, legendas 38–42px. Conteúdo principal entre y=160 e y=850; legendas entre y=900 e y=1008. Fonte e corte temporal em rodapé. Mapas em escala constante. Gráficos com base zero. Datas explícitas.
+Fundo `#10282d`, marfim `#f5f1e8`, âmbar `#ffc277` (2026 / destaque), cinza-azulado `#64828a` (2025), verde-claro `#abd5bd` (apoio); Segoe UI 700. Título 72–104 px; apoio 40–48 px; legenda 38–42 px. Conteúdo `y=160–850`; legenda `y=900–1008`. Selo fixo `"Parte n de 4"`. Rodapé fixo: `"Focos de calor detectados — INPE / AQUA_M-T • Setembro e 1–26/10/2026 • UTC"`.
 
-## Motion
+## Motion & Transições
 
-Entradas curtas por opacidade e deslocamento de 18px. Números fixos, sem contagem intermediária inventada. Barras crescem a partir da base com `stat-bars-and-fills`. Aproximação regional segue `coordinate-target-zoom` ou mudança determinística de enquadramento do SVG. Nada pisca. Planos mantidos para leitura. Sem efeitos de sirene.
-
-## Assets
-
-- `../../aviso_queimadas_gov.png`, captura fornecida pelo usuário.
-- `../../../remotion/src/xingu-dados.json`, geometrias projetadas e contagens existentes.
-- Voz sintética brasileira; tentar Francisca Neural, com Microsoft Maria local como recuperação se o serviço estiver indisponível. Sem música para priorizar a inteligibilidade.
-- GSAP 3.14.2 baixado do CDN oficial do pacote, congelado localmente.
-
-## Validation
-
-Conferir soma e seleção dos picos contra o CSV validado. Conferir telas em navegador real, continuidade de legendas, enquadramento, final das falas e metadados dos MP4: 1920x1080, 60s, vídeo H.264 e áudio AAC. Preservar assets e arquivos editáveis.
+- **T1 (Zoom-through pelo ponto âmbar)**: `~0,6 s`, saída `power3.in`, entrada `power3.out`.
+- **T2 (Troca com desfoque no mesmo palco)**: saída `0,2 s` `blur(8px)`, entrada `0,13 s`.
+- **T3 (Recuo de chegada)**: final do V4 (`scale 1 → 0,6`, blur máx. `6 px`).
+- **Títulos**: blur por palavra (`6 px → 0`, `0,13 s`, defasagem `0,07 s`); depois, parados.
+- **Barras**: crescem da base zero, `0,6–0,8 s`, `expo.out`; valores fixos com pausa de `0,5 s` antes de cada número-clímax.
+- **Foco por contraste**: destaque com halo âmbar fixo; resto a `25%` de opacidade.

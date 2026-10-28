@@ -1,0 +1,31 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e2-s5" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="two" id="e2-s5-wrap">
+      <div class="stack">
+        <div class="chip amber">Parte 3 • Os picos</div>
+        <h1 style="font-size:98px"><span class="bw-wrap "><span class="bw">E</span> <span class="bw">no</span> <span class="bw">Xingu?</span></span></h1>
+        <div class="closing-banner">O clima aumenta o risco. Não explica tudo.</div>
+      </div>
+      <div class="map-card" id="e2-s5-map">
+        <img src="assets/overview-xingu.svg" alt="Recorte do Xingu na Amazônia Legal">
+        <div class="carrier-dot" id="e2-s5-dot" style="left:69%;top:46%"></div>
+      </div>
+    </div></div></div>
+</div>
+<script>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e2-s5"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo('#e2-s5-wrap', {scale:0.65, opacity:0}, {scale:1, opacity:1, duration:0.6, ease:'power3.out'}, 0);
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.2);
+    tl.fromTo('#e2-s5-map', {scale:1, x:0, y:0}, {scale:2.4, x:-240, y:40, duration:0.65, ease:'power3.in'}, 6.3);
+    tl.fromTo('#e2-s5-dot', {scale:1}, {scale:16, duration:0.65, ease:'power3.in'}, 6.3);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e2-s5'] = tl;
+})();
+</script>
+</template></body></html>

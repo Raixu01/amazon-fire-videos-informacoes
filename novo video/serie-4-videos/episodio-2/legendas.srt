@@ -1,63 +1,55 @@
 1
-00:00:00,341 --> 00:00:04,157
-Por que falar de fogo agora?
+00:00:00,294 --> 00:00:04,497
+Por que o alerta chegou agora?
 
 2
-00:00:04,157 --> 00:00:07,470
-Na estiagem, a vegetação fica mais vulnerável.
+00:00:04,497 --> 00:00:06,787
+Estamos na época de menos chuva.
 
 3
-00:00:08,357 --> 00:00:14,020
-Estes mapas mostram focos de calor detectados nos
+00:00:07,297 --> 00:00:11,748
+Com menos chuva, a vegetação fica mais
 
 4
-00:00:14,020 --> 00:00:20,268
-municípios da Amazônia Legal, em setembro e outubro,
+00:00:11,748 --> 00:00:13,776
+seca.
 
 5
-00:00:20,268 --> 00:00:23,244
-de dois mil e vinte a dois mil
+00:00:13,776 --> 00:00:17,720
+O fogo encontra mais condições para se
 
 6
-00:00:23,244 --> 00:00:26,293
-e vinte e seis.
+00:00:18,293 --> 00:00:24,461
+Os satélites registram pontos de calor. Cada
 
 7
-00:00:26,293 --> 00:00:29,830
-As cores mostram como os registros variam entre
+00:00:24,461 --> 00:00:28,471
+ponto é um foco detectado, não um
 
 8
-00:00:30,331 --> 00:00:33,313
-O El Niño pode reduzir as chuvas em
+00:00:32,293 --> 00:00:34,915
+Em dois mil e vinte e seis
 
 9
-00:00:33,313 --> 00:00:37,520
-partes da Amazônia e favorecer condições para o
+00:00:34,915 --> 00:00:37,338
+há El Niño.
 
 10
-00:00:37,520 --> 00:00:40,320
-fogo se espalhar.
+00:00:37,338 --> 00:00:41,313
+Ele pode reduzir as chuvas e favorecer
 
 11
-00:00:40,320 --> 00:00:42,830
-Em outubro de dois mil e vinte e
+00:00:44,293 --> 00:00:48,729
+Mas o clima não explica tudo.
 
 12
-00:00:43,349 --> 00:00:47,311
-Mas ele não explica tudo.
+00:00:48,729 --> 00:00:50,909
+A origem do fogo também importa.
 
 13
-00:00:47,311 --> 00:00:51,342
-A origem do fogo e as condições locais
+00:00:53,297 --> 00:00:57,513
+Agora, vamos aproximar o mapa e olhar
 
 14
-00:00:51,342 --> 00:00:52,470
-também precisam ser consideradas.
-
-15
-00:00:53,357 --> 00:00:57,371
-Agora vamos aproximar o mapa e olhar os
-
-16
-00:00:57,371 --> 00:00:59,188
-dias de maior pico no Xingu.
+00:00:57,513 --> 00:00:57,972
+o Xingu.

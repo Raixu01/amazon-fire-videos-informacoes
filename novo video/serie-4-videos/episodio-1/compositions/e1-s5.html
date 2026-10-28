@@ -1,0 +1,30 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<style>#root { position: absolute; inset: 0; }</style>
+<div data-hf-id="hf-pcz8" id="root" data-composition-id="e1-s5" data-width="1920" data-height="1080">
+  <div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-qiz0" class="inside">
+    <div data-hf-id="hf-rnnk" class="two" id="e1-s5-wrap">
+      <div data-hf-id="hf-d1zs" class="stack">
+        <div data-hf-id="hf-ysak" class="chip amber">Parte 2 • A época</div>
+        <h1 data-hf-id="hf-m3fm"><span data-hf-id="hf-e1rp" class="bw-wrap "><span data-hf-id="hf-ritj" class="bw">E</span> <span data-hf-id="hf-iwj6" class="bw">os</span> <span data-hf-id="hf-eh4s" class="bw">satélites,</span> <span data-hf-id="hf-6mgl" class="bw">o</span> <span data-hf-id="hf-df0t" class="bw">que</span> <span data-hf-id="hf-pkpa" class="bw">mostram?</span></span></h1>
+        <div data-hf-id="hf-n5fv" class="closing-banner">O aviso é sobre a fumaça.</div>
+      </div>
+      <div data-hf-id="hf-hloh" class="map-card">
+        <img data-hf-id="hf-00wv" src="assets/overview-xingu.svg" alt="Mapa da Amazônia Legal e Xingu">
+        <div data-hf-id="hf-hnp7" class="carrier-dot" id="e1-s5-dot" style="left:69%;top:46%"></div>
+      </div>
+    </div></div></div>
+</div>
+<script>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e1-s5"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo('#e1-s5-wrap', {scale:0.65, opacity:0}, {scale:1, opacity:1, duration:0.6, ease:'power3.out'}, 0);
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.25);
+    tl.fromTo('#e1-s5-dot', {scale:1}, {scale:18, duration:0.6, ease:'power3.in'}, 7.35);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e1-s5'] = tl;
+})();
+</script>
+</template></body></html>

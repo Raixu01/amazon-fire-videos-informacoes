@@ -1,9 +1,24 @@
 <!doctype html><html lang="pt-BR"><body><template>
-<div id="e4-s4" data-composition-id="e4-s4" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="two wide"><div class="stack"><div class="eyebrow accent">O ALERTA MERECE ATENÇÃO</div><h1>Prevenir incêndios é proteger a vida.</h1><p class=lead>A floresta, a saúde e quem vive aqui.</p><div class="tag">Acompanhe as orientações oficiais.</div></div><div class="screenshot"><img src="assets/aviso.png" alt="Alerta de incêndios recebido em 11 de outubro de 2026"><div class="name-mask"></div></div></div></div></div></div>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e4-s4" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="center-stage">
+      <div class="chip amber">Lei 9.605/1998 — art. 41</div>
+      <div class="halo-box" style="padding:42px 48px;max-width:1560px">
+        <h1 style="font-size:76px;line-height:1.15"><span class="bw-wrap "><span class="bw">“Provocar</span> <span class="bw">incêndio</span> <span class="bw">em</span> <span class="bw">floresta</span> <span class="bw">ou</span> <span class="bw">em</span> <span class="bw">demais</span> <span class="bw">formas</span> <span class="bw">de</span> <span class="bw">vegetação”</span></span></h1>
+      </div>
+      <p class="muted" style="font-size:32px">Lei de Crimes Ambientais (redação da Lei nº 14.944/2024)</p>
+    </div></div></div>
+</div>
 <script>
-(()=>{const el=document.getElementById('e4-s4');const tl=gsap.timeline({paused:true});
-tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
-el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
-el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
-window.__timelines['e4-s4']=tl;})();
-</script></template></body></html>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e4-s4"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.2);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e4-s4'] = tl;
+})();
+</script>
+</template></body></html>

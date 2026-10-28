@@ -1,9 +1,11 @@
-[00–08s] Por que falar de fogo agora? Na estiagem, a vegetação fica mais vulnerável.
+[0–7s] Por que o alerta chegou agora? Estamos na época de menos chuva.
 
-[08–30s] Estes mapas mostram focos de calor detectados nos municípios da Amazônia Legal, em setembro e outubro, de dois mil e vinte a dois mil e vinte e seis. As cores mostram como os registros variam entre lugares e anos.
+[7–18s] Com menos chuva, a vegetação fica mais seca. O fogo encontra mais condições para se espalhar.
 
-[30–43s] O El Niño pode reduzir as chuvas em partes da Amazônia e favorecer condições para o fogo se espalhar. Em outubro de dois mil e vinte e seis, o fenômeno está em curso.
+[18–32s] Os satélites registram pontos de calor. Cada ponto é um foco detectado, não um incêndio contado um a um.
 
-[43–53s] Mas ele não explica tudo. A origem do fogo e as condições locais também precisam ser consideradas.
+[32–44s] Em dois mil e vinte e seis há El Niño. Ele pode reduzir as chuvas e favorecer o fogo.
 
-[53–60s] Agora vamos aproximar o mapa e olhar os dias de maior pico no Xingu.
+[44–53s] Mas o clima não explica tudo. A origem do fogo também importa.
+
+[53–60s] Agora, vamos aproximar o mapa e olhar o Xingu.

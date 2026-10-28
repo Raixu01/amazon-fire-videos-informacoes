@@ -7,6 +7,14 @@ node_modules/
 __pycache__/
 .cache/
 .runtime/
+.hyperframes/
 *.mp4
 *.sqlite
 *.wav
+**/segoeui*.ttf
+novo video/aviso_queimadas_gov.png
+novo video/serie-4-videos/**/aviso.png
+novo video/serie-4-videos/speech/
+novo video/serie-4-videos/renders/verificacao/
+hyperframes/
+teste-hyperframes/

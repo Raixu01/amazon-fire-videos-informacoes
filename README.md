@@ -9,9 +9,9 @@ Acervo preparado em 28/10/2026 a partir dos arquivos locais de `amazon-fire`. Re
 | Altamira, 8–14/10/2026 | [Nota técnica, roteiro e créditos](entregas/altamira/LEIA-ME.md) | [Camadas](entregas/altamira/camadas/), [auditoria](entregas/altamira/auditoria.json), [Remotion](remotion/src/video.jsx) |
 | Pulso .atm, janeiro–outubro/2026 | [Nota técnica, recortes e reprodução](entregas/atm-2026/LEIA-ME.md) | [Contagens](entregas/atm-2026/contagens_diarias_municipios.csv), [camadas](entregas/atm-2026/camadas/), [Remotion](remotion/src/atm-video.jsx) |
 | Amazônia Legal e Xingu, 2018–2026 | [Proposta](entregas/amazonia-xingu/PROPOSTA.md), [coleta](entregas/amazonia-xingu/COLETA.md), [ingestão](entregas/amazonia-xingu/INGESTAO.md), [composição](entregas/amazonia-xingu/COMPOSICAO.md) | [Snapshot auditado](entregas/amazonia-xingu/snapshots/xingu-74d0fdff5980abae3d40/), [dados gráficos](remotion/src/xingu-dados.json), [Remotion](remotion/src/xingu-video.jsx) |
-| Fogo no Xingu — quatro vídeos de 60 segundos | [Storyboard geral](novo%20video/STORYBOARD-4-VIDEOS.md), [guia](novo%20video/serie-4-videos/LEIA-ME.md), [falas adaptadas](novo%20video/serie-4-videos/script.json) | Cada pasta de episódio contém roteiro, storyboard, legendas, cenas HTML, mapas SVG e relatórios |
+| Fogo no Xingu — quatro vídeos de 60 segundos (V2) | [Storyboard V2](novo%20video/STORYBOARD-V2.md), [Storyboard V1](novo%20video/STORYBOARD-4-VIDEOS.md), [guia](novo%20video/serie-4-videos/LEIA-ME.md), [falas adaptadas](novo%20video/serie-4-videos/script.json) | Cada pasta de episódio contém SPEC, REVIEW, ledger, roteiro, storyboard, legendas, cenas HTML, mapas SVG e relatórios (`check.json` com 0 erros e 0 avisos) |
 
-Os quatro episódios são: [O aviso](novo%20video/serie-4-videos/episodio-1/SCRIPT.md), [O contexto](novo%20video/serie-4-videos/episodio-2/SCRIPT.md), [Os picos no Xingu](novo%20video/serie-4-videos/episodio-3/SCRIPT.md) e [Comparação e responsabilidade](novo%20video/serie-4-videos/episodio-4/SCRIPT.md).
+Os quatro episódios (V2) são: [O alerta](novo%20video/serie-4-videos/episodio-1/SCRIPT.md), [A época](novo%20video/serie-4-videos/episodio-2/SCRIPT.md), [Os picos](novo%20video/serie-4-videos/episodio-3/SCRIPT.md) e [A comparação](novo%20video/serie-4-videos/episodio-4/SCRIPT.md).
 
 ## Fontes, recortes e interpretação
 
@@ -20,7 +20,7 @@ As fontes e URLs registradas nos documentos originais estão em [FONTES.md](FONT
 - Focos de calor: INPE / Programa Queimadas. Limites municipais: IBGE / Amazônia Legal 2024.
 - Altamira usa dias de Brasília e múltiplos sensores. A edição .atm seleciona NOAA-20. O Xingu usa AQUA_M-T e dias UTC; outubro está limitado a 1–26 nos comparativos de 2025/2026. Essas séries têm recortes diferentes.
 - Detecções não representam incêndios únicos, área queimada, qualidade do ar ou identificação de responsáveis. Ausência de arquivo não equivale a zero.
-- A série de quatro episódios usa o snapshot `xingu-74d0fdff5980abae3d40`. Os relatórios preservados registram verificações anteriores; não foram feitos novos renders nesta organização.
+- A série de quatro episódios usa o snapshot `xingu-74d0fdff5980abae3d40`. Os relatórios e especificações em `novo video/serie-4-videos/` registram a versão V2 renderizada com HyperFrames (0 erros e 0 avisos no `hyperframes check`).
 
 ## Integridade e rastreabilidade
 

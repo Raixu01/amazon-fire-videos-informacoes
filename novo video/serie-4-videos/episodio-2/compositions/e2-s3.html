@@ -1,9 +1,47 @@
 <!doctype html><html lang="pt-BR"><body><template>
-<div id="e2-s3" data-composition-id="e2-s3" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="stack"><div class="eyebrow accent">A DISTINÇÃO IMPORTA</div><h1>O clima aumenta o risco.</h1><p class=lead>A origem do fogo e as condições locais também precisam ser consideradas.</p><div class="callout">El Niño não explica sozinho o número de focos.</div></div></div></div></div>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e2-s3" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="two">
+      <div class="stack">
+        <div class="chip amber">NOAA, 08/10/2026</div>
+        <h1><span class="bw-wrap "><span class="bw">El</span> <span class="bw">Niño</span> <span class="bw">em</span> <span class="bw">curso</span></span></h1>
+        <p class="support-line">O aquecimento do Pacífico pode reduzir as chuvas e favorecer o fogo na Amazônia.</p>
+      </div>
+      <div class="map-card" style="background:#153137;border:1.5px solid #365157;border-radius:20px;padding:28px">
+        <svg viewBox="0 0 820 540" width="100%" height="100%">
+          <!-- Oceano Pacífico à esquerda e norte da América do Sul à direita -->
+          <rect x="20" y="40" width="780" height="460" rx="16" fill="#11262b"/>
+          <text x="55" y="105" fill="#c0d0c8" font-size="28" font-weight="700" font-family="Pulso, sans-serif">OCEANO PACÍFICO EQUATORIAL</text>
+          <!-- Faixa aquecida do Pacífico (colore em 0.8s) -->
+          <rect id="e2-s3-band" x="50" y="210" width="320" height="110" rx="55" fill="#2b4c52" stroke="#ffc277" stroke-width="3"/>
+          <text x="88" y="275" fill="#10282d" font-size="30" font-weight="700" font-family="Pulso, sans-serif">Mais quente</text>
+          <!-- Seta curta para a Amazônia (entra depois) -->
+          <g id="e2-s3-arrow" style="opacity:0">
+            <line x1="390" y1="265" x2="485" y2="265" stroke="#ffc277" stroke-width="8" stroke-linecap="round"/>
+            <polygon points="505,265 475,245 475,285" fill="#ffc277"/>
+          </g>
+          <!-- Região Amazônica -->
+          <g transform="translate(520, 145)">
+            <rect x="0" y="0" width="245" height="240" rx="22" fill="#1e423b" stroke="#abd5bd" stroke-width="3"/>
+            <text x="34" y="105" fill="#f5f1e8" font-size="32" font-weight="700" font-family="Pulso, sans-serif">Amazônia</text>
+            <text x="34" y="150" fill="#ffc277" font-size="27" font-weight="700" font-family="Pulso, sans-serif">Menos chuva</text>
+          </g>
+        </svg>
+      </div>
+    </div></div></div>
+</div>
 <script>
-(()=>{const el=document.getElementById('e2-s3');const tl=gsap.timeline({paused:true});
-tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
-el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
-el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
-window.__timelines['e2-s3']=tl;})();
-</script></template></body></html>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e2-s3"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.1);
+    tl.fromTo('#e2-s3-band', {fill:'#2b4c52'}, {fill:'#ffc277', duration:0.8, ease:'power2.inOut'}, 0.4);
+    tl.fromTo('#e2-s3-arrow', {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.22, ease:'power2.out'}, 1.5);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e2-s3'] = tl;
+})();
+</script>
+</template></body></html>

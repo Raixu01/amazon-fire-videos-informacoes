@@ -1,9 +1,41 @@
 <!doctype html><html lang="pt-BR"><body><template>
-<div id="e4-s3" data-composition-id="e4-s3" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="stack"><div class="eyebrow accent">LEI DE CRIMES AMBIENTAIS</div><h2>Provocar incêndio é crime ambiental.</h2><div class="lawbox"><div class="law">“Provocar incêndio em floresta ou em demais formas de vegetação:”</div></div><div class="note">Lei 9.605/1998, art. 41 · redação da Lei 14.944/2024</div></div></div></div></div>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e4-s3" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="comp-stage">
+      <div class="bars-box dim-25">
+        <div class="bar-row">
+          <div class="bar-year muted">2025</div>
+          <div class="bar-track"><div class="bar-fill-2025"></div></div>
+          <div class="bar-val muted">1.113</div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-year accent">2026</div>
+          <div class="bar-track"><div class="bar-fill-2026"></div></div>
+          <div class="bar-val accent">3.688</div>
+        </div>
+      </div>
+      <div class="stack" style="gap:24px">
+        <div class="chip" id="e4-s3-tag1" style="font-size:40px;padding:18px 28px">2025: sem El Niño</div>
+        <div class="chip amber" id="e4-s3-tag2" style="font-size:40px;padding:18px 28px;opacity:0">2026: com El Niño</div>
+        <div class="halo-box" id="e4-s3-cause" style="opacity:0">
+          <h2 style="font-size:56px">Isso não prova a causa.</h2>
+          <p class="muted" style="font-size:32px;margin-top:8px">O clima aumenta o risco, mas não explica sozinho.</p>
+        </div>
+      </div>
+    </div></div></div>
+</div>
 <script>
-(()=>{const el=document.getElementById('e4-s3');const tl=gsap.timeline({paused:true});
-tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
-el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
-el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
-window.__timelines['e4-s3']=tl;})();
-</script></template></body></html>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e4-s3"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo('#e4-s3-tag1', {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.2, ease:'power2.out'}, 0.3);
+    tl.fromTo('#e4-s3-tag2', {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.2, ease:'power2.out'}, 3.1);
+    tl.fromTo('#e4-s3-cause', {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.2, ease:'power2.out'}, 5.2);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e4-s3'] = tl;
+})();
+</script>
+</template></body></html>

@@ -1,9 +1,33 @@
 <!doctype html><html lang="pt-BR"><body><template>
-<div data-hf-id="hf-3q5b" id="e1-s0" data-composition-id="e1-s0" data-width="1920" data-height="1080"><div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-qiz0" class="inside"><div data-hf-id="hf-ux4b" class="two wide"><div data-hf-id="hf-d1zs" class="stack"><div data-hf-id="hf-nry2" class="eyebrow accent">UM AVISO PERTO DE VOCÊ</div><h1 data-hf-id="hf-emea">Você também recebeu?</h1><p data-hf-id="hf-6vov" class=lead>Sua região está sob alerta de incêndios.</p><div data-hf-id="hf-oaff" class="tag">Mensagem de 11/10/2026</div></div><div data-hf-id="hf-sj30" class="screenshot"><img data-hf-id="hf-cls3" src="assets/aviso.png" alt="Alerta de incêndios recebido em 11 de outubro de 2026"><div data-hf-id="hf-8r1y" class="name-mask"></div></div></div></div></div></div>
+<style>#root { position: absolute; inset: 0; }</style>
+<div data-hf-id="hf-gpqb" id="root" data-composition-id="e1-s0" data-width="1920" data-height="1080">
+  <div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-qiz0" class="inside">
+    <div data-hf-id="hf-9yku" class="two">
+      <div data-hf-id="hf-d1zs" class="stack">
+        <div data-hf-id="hf-kezp" class="chip amber">Mensagem Gov.br • 11/10/2026</div>
+        <h1 data-hf-id="hf-m3fm"><span data-hf-id="hf-e1rp" class="bw-wrap "><span data-hf-id="hf-q8u2" class="bw">Você</span> <span data-hf-id="hf-270m" class="bw">também</span> <span data-hf-id="hf-rz64" class="bw">recebeu?</span></span></h1>
+        <p data-hf-id="hf-orv6" class="support-line">“Sua região está sob alerta de incêndios.”</p>
+      </div>
+      <div data-hf-id="hf-az78" class="phone-frame" id="e1-s0-phone" data-layout-allow-overflow>
+        <div data-hf-id="hf-1ife" class="phone-inner" id="e1-s0-inner">
+          <img data-hf-id="hf-cbl3" src="assets/aviso.png" alt="Captura de alerta GovBR de 11/10/2026">
+          <div data-hf-id="hf-lbbl" class="phone-dim-top" style="top:0;height:218px"></div>
+          <div data-hf-id="hf-7wjk" class="phone-highlight" style="top:222px;height:132px"></div>
+          <div data-hf-id="hf-t7e2" class="phone-dim-bot" style="top:358px;bottom:0"></div>
+        </div>
+      </div>
+    </div></div></div>
+</div>
 <script>
-(()=>{const el=document.getElementById('e1-s0');const tl=gsap.timeline({paused:true});
-tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
-el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
-el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
-window.__timelines['e1-s0']=tl;})();
-</script></template></body></html>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e1-s0"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.08);
+    tl.fromTo('#e1-s0-inner', {scale:1, y:0}, {scale:1.18, y:-18, duration:2.4, ease:'power2.inOut'}, 0.25);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e1-s0'] = tl;
+})();
+</script>
+</template></body></html>

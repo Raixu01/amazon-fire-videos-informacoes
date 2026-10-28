@@ -1,0 +1,61 @@
+{
+  "episode": 4,
+  "title": "A comparação",
+  "question": "O que mudou e o que fazemos com isso?",
+  "closing_line": "Acompanhe os alertas. Evite provocar incêndios.",
+  "seams": [
+    {
+      "cut": "V4 c5->c6",
+      "episode": 4,
+      "from_scene": "e4-s4",
+      "to_scene": "e4-s5",
+      "time_sec": 47,
+      "transition": "T3",
+      "exit_direction": "Z- (chegada)",
+      "enter_direction": "Z-",
+      "carrier": "número -> captura do celular",
+      "anchor_px": {
+        "x": 1340,
+        "y": 490
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "e4-s0",
+      "start": 0,
+      "end": 7,
+      "word_count": 15
+    },
+    {
+      "id": "e4-s1",
+      "start": 7,
+      "end": 19,
+      "word_count": 24
+    },
+    {
+      "id": "e4-s2",
+      "start": 19,
+      "end": 26,
+      "word_count": 10
+    },
+    {
+      "id": "e4-s3",
+      "start": 26,
+      "end": 37,
+      "word_count": 21
+    },
+    {
+      "id": "e4-s4",
+      "start": 37,
+      "end": 47,
+      "word_count": 15
+    },
+    {
+      "id": "e4-s5",
+      "start": 47,
+      "end": 60,
+      "word_count": 19
+    }
+  ]
+}

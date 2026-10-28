@@ -1,72 +1,44 @@
 [
   {
-    "scene": 0,
-    "start": 0.22,
-    "raw_duration": 5.753333333333333,
+    "unit": "e3-00",
+    "start": 0.16,
+    "raw_duration": 5.085,
     "tempo": 1.0,
-    "end": 5.973333333333333
+    "end": 5.245
   },
   {
-    "scene": 1,
-    "start": 8.22,
-    "raw_duration": 8.38498866213152,
-    "tempo": 1.341598185941043,
-    "end": 14.47
-  },
-  {
-    "scene": 2,
-    "start": 15.22,
-    "raw_duration": 4.313877551020409,
-    "tempo": 1.015030012004802,
-    "end": 19.47
-  },
-  {
-    "scene": 3,
-    "start": 20.22,
-    "raw_duration": 4.774648526077097,
-    "tempo": 1.1234467120181406,
-    "end": 24.47
-  },
-  {
-    "scene": 4,
-    "start": 25.22,
-    "raw_duration": 4.225850340136055,
+    "unit": "e3-01",
+    "start": 7.16,
+    "raw_duration": 6.786,
     "tempo": 1.0,
-    "end": 29.445850340136055
+    "end": 13.946
   },
   {
-    "scene": 5,
-    "start": 30.22,
-    "raw_duration": 5.035646258503402,
-    "tempo": 1.184857943177271,
-    "end": 34.47
+    "unit": "e3-02",
+    "start": 15.16,
+    "raw_duration": 7.287,
+    "tempo": 1.0,
+    "end": 22.447
   },
   {
-    "scene": 6,
-    "start": 35.22,
-    "raw_duration": 4.3107029478458045,
-    "tempo": 1.0142830465519541,
-    "end": 39.47
+    "unit": "e3-04",
+    "start": 31.16,
+    "raw_duration": 8.233,
+    "tempo": 1.0,
+    "end": 39.393
   },
   {
-    "scene": 7,
-    "start": 40.22,
-    "raw_duration": 5.202494331065759,
-    "tempo": 1.2241163131919435,
-    "end": 44.47
+    "unit": "e3-05",
+    "start": 42.16,
+    "raw_duration": 7.62,
+    "tempo": 1.0093,
+    "end": 49.71
   },
   {
-    "scene": 8,
-    "start": 45.22,
-    "raw_duration": 9.29891156462585,
-    "tempo": 1.1271407957122244,
-    "end": 53.47
-  },
-  {
-    "scene": 9,
-    "start": 54.22,
-    "raw_duration": 5.387346938775511,
-    "tempo": 1.0261613216715257,
-    "end": 59.47
+    "unit": "e3-06",
+    "start": 50.16,
+    "raw_duration": 7.556,
+    "tempo": 1.0,
+    "end": 57.716
   }
 ]

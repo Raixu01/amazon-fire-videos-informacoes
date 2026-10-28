@@ -5,265 +5,17 @@
   "lint": {
     "ok": true,
     "errorCount": 0,
-    "warningCount": 14,
+    "warningCount": 0,
     "infoCount": 0,
-    "findings": [
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-0\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-0",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-0\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-1\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-1",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-1\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-2\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-2",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-2\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-3\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-3",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-3\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-4\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-4",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-4\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-5\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-5",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-5\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-6\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-6",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-6\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-7\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-7",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-7\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-8\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-8",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-8\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-9\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-9",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-9\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-10\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-10",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-10\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-11\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-11",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-11\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-12\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-12",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-12\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      },
-      {
-        "code": "nested_structure_needs_subcomposition",
-        "severity": "warning",
-        "message": "<div id=\"caption-13\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
-        "selector": "#caption-13",
-        "dataAttributes": {},
-        "sourceFile": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\novo video\\serie-4-videos\\episodio-1\\index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 0,
-          "height": 0
-        },
-        "time": 0,
-        "fixHint": "Move <div id=\"caption-13\"> and its contents into a sub-composition file and mount it with data-composition-src."
-      }
-    ],
-    "filesScanned": 6
+    "findings": [],
+    "filesScanned": 8
   },
   "runtime": {
     "ok": true,
     "errorCount": 0,
-    "warningCount": 1,
+    "warningCount": 0,
     "infoCount": 0,
-    "findings": [
-      {
-        "code": "clip_media_fit",
-        "severity": "warning",
-        "message": "Audio \"narracao\" is 59.94s but its slot (data-duration) is 60.00s — the slot is shortened to the media length when rendered. Set data-duration to ~59.94s if that isn't intended.",
-        "selector": "[data-composition-id]",
-        "dataAttributes": {
-          "data-composition-id": "main",
-          "data-start": "0",
-          "data-width": "1920",
-          "data-height": "1080",
-          "data-duration": "60",
-          "data-fps": "30"
-        },
-        "sourceFile": "index.html",
-        "bbox": {
-          "x": 0,
-          "y": 0,
-          "width": 1920,
-          "height": 1080
-        },
-        "time": 0
-      }
-    ]
+    "findings": []
   },
   "layout": {
     "ok": true,
@@ -312,8 +64,8 @@
       43.333,
       56.667
     ],
-    "checked": 66,
-    "passed": 66
+    "checked": 65,
+    "passed": 65
   },
   "hdr": {
     "autoPromotion": null,
@@ -325,8 +77,14 @@
     "times": [],
     "findingFiles": []
   },
+  "saved": {
+    "id": "1d1b3ba5-6ea2-4971-8916-9981e6e6ed97",
+    "revision": "5a518061-3152-4dc4-b555-3407693cb81c",
+    "report": "C:\\Users\\Bruno\\Downloads\\amazon-fire-videos-informacoes\\novo video\\serie-4-videos\\episodio-1\\.hyperframes\\artifacts\\checks\\1d1b3ba5-6ea2-4971-8916-9981e6e6ed97.json",
+    "attribution": "recorded-revision"
+  },
   "_meta": {
-    "version": "0.8.171",
+    "version": "0.8.181",
     "updateAvailable": false
   }
 }

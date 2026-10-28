@@ -33,19 +33,27 @@ public class PulsoVoice {
 }
 '@
 $taskSeriesRoot = $PSScriptRoot
-$episodes = Get-Content -LiteralPath (Join-Path $taskSeriesRoot 'script.json') -Raw | ConvertFrom-Json
+$episodes = Get-Content -LiteralPath (Join-Path $taskSeriesRoot 'script.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 $taskSpeechDir = Join-Path $taskSeriesRoot 'speech'
+if (Test-Path $taskSpeechDir) { Remove-Item -Recurse -Force $taskSpeechDir }
 New-Item -ItemType Directory -Path $taskSpeechDir -Force | Out-Null
 foreach ($episode in $episodes) {
-    for ($index=0; $index -lt $episode.scenes.Count; $index++) {
-        $taskPhrases = $episode.scenes[$index].phrases
-        if (-not $taskPhrases) { $taskPhrases = @($episode.scenes[$index]) }
-        for ($phraseIndex=0; $phraseIndex -lt $taskPhrases.Count; $phraseIndex++) {
-            $taskSuffix = if ($episode.scenes[$index].phrases) { '-p{0}' -f $phraseIndex } else { '' }
-            $taskStem = Join-Path $taskSpeechDir ('e{0}-{1:00}{2}' -f $episode.episode,$index,$taskSuffix)
-            $words = [PulsoVoice]::Generate($taskPhrases[$phraseIndex].text, "$taskStem.wav")
+    for ($index = 0; $index -lt $episode.scenes.Count; $index++) {
+        $scene = $episode.scenes[$index]
+        if (-not $scene.phrases -and [string]::IsNullOrWhiteSpace($scene.text)) {
+            Write-Output ('SILENT e{0}-{1:00}: pause scene ({2}-{3}s)' -f $episode.episode, $index, $scene.start, $scene.end)
+            continue
+        }
+        $taskPhrases = $scene.phrases
+        if (-not $taskPhrases) { $taskPhrases = @($scene) }
+        for ($phraseIndex = 0; $phraseIndex -lt $taskPhrases.Count; $phraseIndex++) {
+            $phraseText = $taskPhrases[$phraseIndex].text
+            if ([string]::IsNullOrWhiteSpace($phraseText)) { continue }
+            $taskSuffix = if ($scene.phrases) { '-p{0}' -f $phraseIndex } else { '' }
+            $taskStem = Join-Path $taskSpeechDir ('e{0}-{1:00}{2}' -f $episode.episode, $index, $taskSuffix)
+            $words = [PulsoVoice]::Generate($phraseText, "$taskStem.wav")
             $words | ConvertTo-Json -Depth 4 | Set-Content -LiteralPath "$taskStem.json" -Encoding utf8
-            Write-Output ('VOICE e{0}-{1:00}{2}: {3} words' -f $episode.episode,$index,$taskSuffix,$words.Count)
+            Write-Output ('VOICE e{0}-{1:00}{2}: {3} words' -f $episode.episode, $index, $taskSuffix, $words.Count)
         }
     }
 }

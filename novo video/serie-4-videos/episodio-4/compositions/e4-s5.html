@@ -1,0 +1,36 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e4-s5" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="two" id="e4-s5-stage">
+      <div class="stack">
+        <div id="e4-s5-recede" class="chip" style="font-size:28px">2025: 1.113 → 2026: 3.688 (+231%)</div>
+        <h1 style="font-size:84px"><span class="bw-wrap "><span class="bw">Acompanhe</span> <span class="bw">os</span> <span class="bw">alertas.</span> <span class="bw">Evite</span> <span class="bw">provocar</span> <span class="bw">incêndios.</span></span></h1>
+        <p class="support-line">Prevenir é proteger a floresta, a saúde e quem vive aqui.</p>
+        <div class="chip amber">pulso. • INPE / AQUA_M-T • IBGE • NOAA</div>
+      </div>
+      <div class="phone-frame" id="e4-s5-phone" data-layout-allow-overflow>
+        <div class="phone-inner" style="transform:scale(1.06) translateY(-195px)">
+          <img src="assets/aviso.png" alt="Captura do alerta GovBR destacando orientações de prevenção">
+          <div class="phone-dim-top" style="top:0;height:546px"></div>
+          <div class="phone-highlight" style="top:548px;height:184px"></div>
+          <div class="phone-dim-bot" style="top:736px;bottom:0"></div>
+        </div>
+      </div>
+    </div></div></div>
+</div>
+<script>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e4-s5"]');
+  const tl = gsap.timeline({paused:true});
+  
+    // T3: Recuo de chegada (scale 1 -> 0.6 no elemento de partida / câmera recuando de 1.38 -> 1.0 com blur máx 6px)
+    tl.fromTo('#e4-s5-stage', {scale:1.38, filter:'blur(6px)'}, {scale:1, filter:'blur(0px)', duration:0.75, ease:'power3.out'}, 0);
+    tl.fromTo('#e4-s5-recede', {scale:1.25}, {scale:1, duration:0.75, ease:'power3.out'}, 0);
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.35);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e4-s5'] = tl;
+})();
+</script>
+</template></body></html>

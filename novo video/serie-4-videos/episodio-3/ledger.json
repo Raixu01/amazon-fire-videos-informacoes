@@ -1,0 +1,83 @@
+{
+  "episode": 3,
+  "title": "Os picos",
+  "question": "Quando o fogo apareceu mais?",
+  "closing_line": "Poucos dias concentraram muitos focos.",
+  "seams": [
+    {
+      "cut": "V2->V3",
+      "episode": 3,
+      "from_scene": "e2-s5",
+      "to_scene": "e3-s0",
+      "time_sec": 0,
+      "transition": "T1",
+      "exit_direction": "Z+",
+      "enter_direction": "Z+",
+      "carrier": "recorte do Xingu",
+      "anchor_px": {
+        "x": 1340,
+        "y": 490
+      }
+    },
+    {
+      "cut": "V3 c3->c5",
+      "episode": 3,
+      "from_scene": "e3-s2",
+      "via_scene": "e3-s3",
+      "to_scene": "e3-s4",
+      "time_sec": 26,
+      "transition": "T2",
+      "exit_direction": "T2",
+      "enter_direction": "T2",
+      "carrier": "barra âmbar",
+      "anchor_px": {
+        "x": 1340,
+        "y": 490
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "e3-s0",
+      "start": 0,
+      "end": 7,
+      "word_count": 10
+    },
+    {
+      "id": "e3-s1",
+      "start": 7,
+      "end": 15,
+      "word_count": 13
+    },
+    {
+      "id": "e3-s2",
+      "start": 15,
+      "end": 26,
+      "word_count": 15
+    },
+    {
+      "id": "e3-s3",
+      "start": 26,
+      "end": 31,
+      "word_count": 0
+    },
+    {
+      "id": "e3-s4",
+      "start": 31,
+      "end": 42,
+      "word_count": 18
+    },
+    {
+      "id": "e3-s5",
+      "start": 42,
+      "end": 50,
+      "word_count": 13
+    },
+    {
+      "id": "e3-s6",
+      "start": 50,
+      "end": 60,
+      "word_count": 16
+    }
+  ]
+}

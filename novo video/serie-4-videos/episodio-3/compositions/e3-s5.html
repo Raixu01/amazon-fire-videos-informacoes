@@ -1,9 +1,33 @@
 <!doctype html><html lang="pt-BR"><body><template>
-<div id="e3-s5" data-composition-id="e3-s5" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="stack"><div class="eyebrow accent">NO PRÓXIMO VÍDEO</div><h1>O que mudou desde 2025?</h1><p class=lead>Vamos comparar os mesmos períodos.</p><div class="tag">Parte 4 · Comparação e responsabilidade</div></div></div></div></div>
+<style>#root { position: absolute; inset: 0; }</style>
+<div id="root" data-composition-id="e3-s5" data-width="1920" data-height="1080">
+  <div class="stage"><div class="inside">
+    <div class="two">
+      <div class="map-card" style="overflow:hidden" data-layout-allow-overflow>
+        <img id="e3-s5-map" src="assets/d-2026-10-09-altamira.svg" alt="Altamira destacada em 9 de outubro com 104 focos">
+      </div>
+      <div class="stack">
+        <div class="eyebrow accent">ALTAMIRA EM 9 DE OUTUBRO</div>
+        <h1 style="font-size:112px"><span class="bw-wrap "><span class="bw">104</span> <span class="bw">dos</span> <span class="bw">336</span></span></h1>
+        <p class="support-line">Registros concentrados no maior município da região naquele dia.</p>
+        <div class="halo-box" id="e3-s5-note">
+          <h2 class="accent" style="font-size:54px">Foco ≠ área queimada</h2>
+          <p class="muted" style="font-size:32px;margin-top:8px">Cada ponto indica uma detecção de calor do satélite.</p>
+        </div>
+      </div>
+    </div></div></div>
+</div>
 <script>
-(()=>{const el=document.getElementById('e3-s5');const tl=gsap.timeline({paused:true});
-tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
-el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
-el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
-window.__timelines['e3-s5']=tl;})();
-</script></template></body></html>
+(()=>{
+  const el = document.querySelector('[data-composition-id="e3-s5"]');
+  const tl = gsap.timeline({paused:true});
+  
+    tl.fromTo(el.querySelectorAll('.bw'), {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.13, stagger:0.07, ease:'power2.out'}, 0.15);
+    tl.fromTo('#e3-s5-map', {scale:1}, {scale:1.14, duration:0.8, ease:'power2.out'}, 0.1);
+    tl.fromTo('#e3-s5-note', {opacity:0, filter:'blur(6px)'}, {opacity:1, filter:'blur(0px)', duration:0.2, ease:'power2.out'}, 2.8);
+    
+  window.__timelines = window.__timelines || {};
+  window.__timelines['e3-s5'] = tl;
+})();
+</script>
+</template></body></html>
