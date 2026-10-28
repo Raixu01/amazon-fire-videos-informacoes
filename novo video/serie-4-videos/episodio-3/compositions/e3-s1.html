@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div id="e3-s1" data-composition-id="e3-s1" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="stack"><div class="eyebrow accent">COMO FIZEMOS O RECORTE</div><h1>3 maiores picos de cada mês.</h1><p class=lead>Setembro completo e outubro até o dia 26.</p><div class="callout">Dez municípios · seis datas selecionadas · ordem cronológica</div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e3-s1');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e3-s1']=tl;})();
+</script></template></body></html>

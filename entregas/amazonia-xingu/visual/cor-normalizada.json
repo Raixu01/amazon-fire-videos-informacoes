@@ -1,0 +1,70 @@
+{
+  "origem": "Remotion 4: JPEG BT.601 em faixa completa",
+  "destino": "H264 BT.709 em faixa TV yuv420p",
+  "arquivos": [
+    {
+      "arquivo": "previa-amazonia-xingu.mp4",
+      "original_sha256": "b6f98f9320210347b0d1a59d211236248178acd765eb3b2a914303a6978e98a8",
+      "sha256": "cddafb714a3f42155942f37a212ad3944838e5853f392e3bf8d0659a23a420bb",
+      "ffmpeg_arguments": [
+        "-y",
+        "-v",
+        "error",
+        "-i",
+        "entregas\\amazonia-xingu\\visual\\render-original\\previa-amazonia-xingu.mp4",
+        "-vf",
+        "scale=in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,format=yuv420p",
+        "-c:v",
+        "libx264",
+        "-preset",
+        "medium",
+        "-crf",
+        "14",
+        "-color_range",
+        "tv",
+        "-colorspace",
+        "bt709",
+        "-color_primaries",
+        "bt709",
+        "-color_trc",
+        "bt709",
+        "-an",
+        "-movflags",
+        "+faststart",
+        "entregas\\amazonia-xingu\\previa-amazonia-xingu-bt709.mp4"
+      ]
+    },
+    {
+      "arquivo": "pulso-amazonia-xingu-2018-2026.mp4",
+      "original_sha256": "90d474b4d0996e7f60c44578fe66ea0d3b54a43d75becf5f5b163ea8c5a852a4",
+      "sha256": "1afe24af942b09794012a2e261bd283c1fc046503116cbad77facbcd48619b0d",
+      "ffmpeg_arguments": [
+        "-y",
+        "-v",
+        "error",
+        "-i",
+        "entregas\\amazonia-xingu\\visual\\render-original\\pulso-amazonia-xingu-2018-2026.mp4",
+        "-vf",
+        "scale=in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,format=yuv420p",
+        "-c:v",
+        "libx264",
+        "-preset",
+        "medium",
+        "-crf",
+        "14",
+        "-color_range",
+        "tv",
+        "-colorspace",
+        "bt709",
+        "-color_primaries",
+        "bt709",
+        "-color_trc",
+        "bt709",
+        "-an",
+        "-movflags",
+        "+faststart",
+        "entregas\\amazonia-xingu\\pulso-amazonia-xingu-2018-2026-bt709.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div id="e4-s0" data-composition-id="e4-s0" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="stack"><div class="eyebrow accent">XINGU · 2025 × 2026</div><h1>O que mudou de um ano para o outro?</h1><p class=lead>Setembro + 1 a 26 de outubro.</p><div class="tag">Mesmos períodos · mesmo sensor · mesmo território</div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e4-s0');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e4-s0']=tl;})();
+</script></template></body></html>

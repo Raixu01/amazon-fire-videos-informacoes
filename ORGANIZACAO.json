@@ -1,0 +1,17 @@
+{
+  "data": "2026-10-28",
+  "origem": "https://github.com/Raixu01/amazon-fire",
+  "escopo": "Informações e insumos selecionados de todas as edições locais",
+  "novos_renders": false,
+  "copias_identicas": 294,
+  "videos_inventariados": 27,
+  "omissoes": [
+    "MP4 e ZIP",
+    "bancos SQLite e bases nacionais completas das demais edições; os CSVs de origem de Altamira foram incluídos",
+    "captura do alerta com nome da destinatária",
+    "fontes proprietárias",
+    "áudio WAV",
+    "caches, executáveis e dependências instaladas",
+    "quadros de revisão"
+  ]
+}

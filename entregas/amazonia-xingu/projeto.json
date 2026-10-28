@@ -1,0 +1,77 @@
+{
+  "versao": 1,
+  "id": "pulso-amazonia-xingu-2018-2026",
+  "estado": "estrutura_para_execucao_posterior",
+  "data_planejamento": "2026-10-27",
+  "anos": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+  "meses": [9, 10],
+  "ano_diario": 2026,
+  "ano_comparacao": 2025,
+  "tempo": {
+    "fuso_agregacao": "UTC",
+    "fim_intervalo": "exclusivo",
+    "corte_utc": null,
+    "regra_corte": "ultimo instante com ingestao e cobertura validadas; nunca inferir pelo ultimo foco",
+    "outubro_2026": "parcial_ate_validacao_posterior_ao_fim_do_mes"
+  },
+  "serie": {
+    "sensor": "AQUA_M-T",
+    "unidade": "focos de calor detectados",
+    "troca_sensor": "bloquear_comparacao",
+    "multissatelite": "fora_da_serie_comparativa",
+    "deduplicacao": ["data_hora_utc", "latitude", "longitude", "satelite"]
+  },
+  "territorio": {
+    "malha": "IBGE-Amazonia-Legal-2024",
+    "analise": "dados-processados/territorio/municipios_amazonia_legal_analise.gpkg",
+    "visualizacao": "dados-processados/territorio/municipios_amazonia_legal_web.geojson",
+    "regiao": "Região de Integração Xingu",
+    "recorte_confirmado": true,
+    "municipios_xingu": [
+      {"codigo_ibge": "1500602", "nome": "Altamira"},
+      {"codigo_ibge": "1500859", "nome": "Anapu"},
+      {"codigo_ibge": "1501725", "nome": "Brasil Novo"},
+      {"codigo_ibge": "1504455", "nome": "Medicilândia"},
+      {"codigo_ibge": "1505486", "nome": "Pacajá"},
+      {"codigo_ibge": "1505650", "nome": "Placas"},
+      {"codigo_ibge": "1505908", "nome": "Porto de Moz"},
+      {"codigo_ibge": "1507805", "nome": "Senador José Porfírio"},
+      {"codigo_ibge": "1508159", "nome": "Uruará"},
+      {"codigo_ibge": "1508357", "nome": "Vitória do Xingu"}
+    ]
+  },
+  "video": {
+    "renderizador_proposto": "Remotion existente no repositorio",
+    "composicao_futura": "PulsoAmazoniaXingu",
+    "arquivo_futuro": "pulso-amazonia-xingu-2018-2026.mp4",
+    "largura": 1920,
+    "altura": 1080,
+    "fps": 30,
+    "duracao_segundos": 150,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio": "sem_locucao_nesta_proposta",
+    "cenas": [
+      {"id": "abertura", "inicio": 0, "duracao": 6},
+      {"id": "historico_duplo", "inicio": 6, "duracao": 45, "segundos_por_ano": 5},
+      {"id": "zoom_xingu", "inicio": 51, "duracao": 6},
+      {"id": "titulo_setembro", "inicio": 57, "duracao": 4},
+      {"id": "diario_setembro", "inicio": 61, "duracao": 30, "segundos_por_dia": 1},
+      {"id": "titulo_outubro", "inicio": 91, "duracao": 4},
+      {"id": "diario_outubro", "inicio": 95, "duracao": 31, "segundos_por_dia": 1},
+      {"id": "comparativo", "inicio": 126, "duracao": 18},
+      {"id": "creditos", "inicio": 144, "duracao": 6}
+    ],
+    "mapa": {
+      "projecao": "Mercator; mesma transformacao e enquadramento nos dois paineis",
+      "escala_cor": "unica_para_os_18_mapas; intervalos_calculados_apos_validacao",
+      "metrica_historica": "contagem_mensal_municipal",
+      "metrica_diaria": "pontos_do_dia_e_contagem_municipal",
+      "historico_limites": "todos_os_municipios_da_amazonia_legal",
+      "zoom_limites": "restante_desaparece_enquanto_xingu_permanece",
+      "diario_limites": "somente_os_10_municipios_do_xingu",
+      "persistencia_focos": "substituir_a_cada_dia_sem_rastro",
+      "contexto_externo": "sem_contornos_municipais_nem_focos_fora_do_xingu"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "arquivo": "trecho-xingu-totais-diarios.mp4",
+  "fonte": "pulso-amazonia-xingu-totais-diarios.mp4",
+  "fonte_sha256": "20180a6a364215909b33384bc77b27723bfa86e8f13cdd2d2f44afcd188cbef1",
+  "sha256": "cfea9fe0862a2341a619e02c4993073f52bed574d21790937ae20785549f403a",
+  "inicio_no_video_segundos": 155,
+  "duracao_segundos": 18,
+  "frames": 540,
+  "velocidade": "normal",
+  "datas_exibidas": [
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04",
+    "2026-10-05",
+    "2026-10-06"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "versao_edicao": 2,
+  "leitura_diaria": "total_fechado_do_dia_por_municipio",
+  "acumulo": "todas_as_deteccoes_do_dia_sem_acumulo_entre_datas",
+  "arquivo_futuro": "pulso-amazonia-xingu-totais-diarios.mp4",
+  "arquivo_previa": "previa-amazonia-xingu-totais-diarios.mp4",
+  "duracao_previa_segundos": 25,
+  "duracao_segundos": 272,
+  "cenas": [
+    {"id": "abertura", "inicio": 0, "duracao": 6},
+    {"id": "historico_duplo", "inicio": 6, "duracao": 45, "segundos_por_ano": 5},
+    {"id": "zoom_xingu", "inicio": 51, "duracao": 6},
+    {"id": "titulo_setembro", "inicio": 57, "duracao": 4},
+    {"id": "diario_setembro", "inicio": 61, "duracao": 90, "segundos_por_dia": 3},
+    {"id": "titulo_outubro", "inicio": 151, "duracao": 4},
+    {"id": "diario_outubro", "inicio": 155, "duracao": 93, "segundos_por_dia": 3},
+    {"id": "comparativo", "inicio": 248, "duracao": 18},
+    {"id": "creditos", "inicio": 266, "duracao": 6}
+  ]
+}

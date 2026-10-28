@@ -1,0 +1,12 @@
+{
+  "versao": 1,
+  "sensor": "AQUA_M-T",
+  "anos_permitidos": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
+  "produto_url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/",
+  "documentacao_url": "https://data.inpe.br/queimadas/faq/",
+  "secao": "7. O que é o satélite de referência?",
+  "consultado_em": "2026-10-27",
+  "interpretacao": "A documentação do INPE identifica AQUA_M-T como referência após julho de 2002. Esta associação documental aplica-se aos arquivos históricos do produto Brasil_sat_ref coletados para 2018–2025; não equivale à existência de identificação de sensor em cada linha.",
+  "evidencia_por_linha": false,
+  "restricao": "Bloquear atribuição documental para outro produto, sensor ou ano. Arquivos operacionais devem declarar o sensor em cada observação."
+}

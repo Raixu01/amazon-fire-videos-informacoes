@@ -1,0 +1,17 @@
+{
+  "estado": "estrutura_preparada_sem_ingestao_ou_render",
+  "municipios": 773,
+  "municipios_xingu": 10,
+  "dias_planejados": 549,
+  "segmentos_video": 76,
+  "frames": 4500,
+  "fontes_locais": 25,
+  "faltantes_obrigatorias": [],
+  "bloqueios_execucao": [
+    "Ingerir e validar fontes e cobertura diária.",
+    "Fixar corte UTC e gerar snapshot auditado.",
+    "Implementar exportação dos agregados e assets.",
+    "Implementar composição Remotion conforme projeto.json e validar quadros.",
+    "Renderizar e conferir MP4."
+  ]
+}

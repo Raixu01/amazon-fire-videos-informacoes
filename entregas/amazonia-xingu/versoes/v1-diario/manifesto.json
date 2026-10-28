@@ -1,0 +1,30 @@
+{
+  "versao": "v1-diario-1-segundo",
+  "arquivos": [
+    {
+      "origem": "remotion/src/xingu-video.jsx",
+      "arquivo": "xingu-video.jsx",
+      "sha256": "1b4bebc908c1123e97efb210c6f3fc0d921c8a7e4a8e5c10d060986ee8bd4d40"
+    },
+    {
+      "origem": "remotion/src/xingu-model.cjs",
+      "arquivo": "xingu-model.cjs",
+      "sha256": "c6af9ad28adf3b8436e22323750cdb826e3da1ec623e54f9d1eb3ddfa381a9a8"
+    },
+    {
+      "origem": "remotion/src/xingu-dados.json",
+      "arquivo": "xingu-dados.json",
+      "sha256": "2c4fe806d844bff1e9497f48cbc2c350b90b56eb29bab9541daca1d9111e9a3f"
+    },
+    {
+      "origem": "remotion/src/index.jsx",
+      "arquivo": "index.jsx",
+      "sha256": "7644e9475ef40b228abee04bb588f8d852de1c4b106a8320788f719bbc5fb5d9"
+    },
+    {
+      "origem": "entregas/amazonia-xingu/visual/video-qa.json",
+      "arquivo": "video-qa.json",
+      "sha256": "b1dadb3bab40a9f87945d08891f03625835331cc0b14164b811db43426dadf94"
+    }
+  ]
+}

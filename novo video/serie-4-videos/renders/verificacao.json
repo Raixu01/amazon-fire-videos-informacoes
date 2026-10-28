@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "voice": "Microsoft Maria Desktop, pt-BR, offline",
+  "data_snapshot": "xingu-74d0fdff5980abae3d40",
+  "videos": [
+    {
+      "file": "01-o-aviso.mp4",
+      "bytes": 3855697,
+      "sha256": "16a890ecfdca5c7aa186fe5f09a7b22b47c916f2d7d00c1d4d328ad49754fafb",
+      "duration": 60.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "1800",
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "mean_volume_db": -20.1,
+      "peak_db": -4.4,
+      "full_decode_ok": true
+    },
+    {
+      "file": "02-o-contexto.mp4",
+      "bytes": 6285710,
+      "sha256": "56dc712291c041dcdfcf52a307a18b6d4c2d3aebd9d5b573a82dea37473492b1",
+      "duration": 60.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "1800",
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "mean_volume_db": -19.8,
+      "peak_db": -4.4,
+      "full_decode_ok": true
+    },
+    {
+      "file": "03-os-picos-no-xingu.mp4",
+      "bytes": 4054607,
+      "sha256": "188024b2b36eb9c0a00a80d47cc5ecbf9160d8faf7fafbfd553026d674f5d131",
+      "duration": 60.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "1800",
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "mean_volume_db": -20.4,
+      "peak_db": -4.4,
+      "full_decode_ok": true
+    },
+    {
+      "file": "04-comparacao-e-responsabilidade.mp4",
+      "bytes": 3716114,
+      "sha256": "8cb3331e61192f0ceb9f8c7cab292bd708e422c4ba8500dcbbe0e66fc13775f4",
+      "duration": 60.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "1800",
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "mean_volume_db": -19.7,
+      "peak_db": -4.5,
+      "full_decode_ok": true
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "verificado_utc": "2026-10-27T17:10:07.714423+00:00",
+  "snapshot_id": "xingu-74d0fdff5980abae3d40",
+  "corte_exclusivo_utc": "2026-10-27T00:00:00+00:00",
+  "estado": "aprovado",
+  "quadros_revisados": [
+    90,
+    255,
+    405,
+    555,
+    705,
+    855,
+    1005,
+    1155,
+    1305,
+    1455,
+    1620,
+    1709,
+    1755,
+    1830,
+    1875,
+    1919,
+    1920,
+    2145,
+    4485,
+    4590,
+    4695,
+    6765,
+    6945,
+    7035,
+    7395,
+    7500,
+    7680,
+    7860,
+    8050
+  ],
+  "arquivos": [
+    {
+      "arquivo": "pulso-amazonia-xingu-totais-diarios.mp4",
+      "bytes": 10252400,
+      "sha256": "20180a6a364215909b33384bc77b27723bfa86e8f13cdd2d2f44afcd188cbef1",
+      "largura": 1920,
+      "altura": 1080,
+      "fps": 30,
+      "duracao_segundos": 272,
+      "frames": 8160,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "decodificacao": "ok"
+    },
+    {
+      "arquivo": "previa-amazonia-xingu-totais-diarios.mp4",
+      "bytes": 3515785,
+      "sha256": "b872dedbafa804ac1a108844568026e0d841d9532c30e9c75e0b690639a17167",
+      "largura": 1920,
+      "altura": 1080,
+      "fps": 30,
+      "duracao_segundos": 25,
+      "frames": 750,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "decodificacao": "ok"
+    }
+  ],
+  "fontes_sha256": {
+    "xingu-video.jsx": "1b12c390fe371848e717c31c5d66a80551a4b8ca8e682579616f5bf24a58594d",
+    "xingu-model.cjs": "b8fb46629113beb638a673dc50a612523f06f299f168bbd1cf1633be4981e62b",
+    "xingu-dados.json": "f4181b40e6fcf0eba4114a0cf8a0023c75e62e4c7a8af36bf09a20ad650aed34"
+  }
+}

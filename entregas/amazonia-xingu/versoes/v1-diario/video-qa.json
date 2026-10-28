@@ -1,0 +1,67 @@
+{
+  "verificado_utc": "2026-10-27T13:33:44.763760+00:00",
+  "snapshot_id": "xingu-74d0fdff5980abae3d40",
+  "corte_exclusivo_utc": "2026-10-27T00:00:00+00:00",
+  "estado": "aprovado",
+  "quadros_revisados": [
+    90,
+    255,
+    405,
+    555,
+    705,
+    855,
+    1005,
+    1155,
+    1305,
+    1455,
+    1620,
+    1709,
+    1755,
+    1845,
+    2715,
+    2805,
+    2865,
+    3615,
+    3645,
+    3765,
+    3840,
+    4020,
+    4200,
+    4390
+  ],
+  "arquivos": [
+    {
+      "arquivo": "pulso-amazonia-xingu-2018-2026.mp4",
+      "bytes": 9734377,
+      "sha256": "1afe24af942b09794012a2e261bd283c1fc046503116cbad77facbcd48619b0d",
+      "largura": 1920,
+      "altura": 1080,
+      "fps": 30,
+      "duracao_segundos": 150,
+      "frames": 4500,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "decodificacao": "ok"
+    },
+    {
+      "arquivo": "previa-amazonia-xingu.mp4",
+      "bytes": 4664332,
+      "sha256": "cddafb714a3f42155942f37a212ad3944838e5853f392e3bf8d0659a23a420bb",
+      "largura": 1920,
+      "altura": 1080,
+      "fps": 30,
+      "duracao_segundos": 25,
+      "frames": 750,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "decodificacao": "ok"
+    }
+  ],
+  "fontes_sha256": {
+    "xingu-video.jsx": "1b4bebc908c1123e97efb210c6f3fc0d921c8a7e4a8e5c10d060986ee8bd4d40",
+    "xingu-model.cjs": "c6af9ad28adf3b8436e22323750cdb826e3da1ec623e54f9d1eb3ddfa381a9a8",
+    "xingu-dados.json": "2c4fe806d844bff1e9497f48cbc2c350b90b56eb29bab9541daca1d9111e9a3f"
+  }
+}

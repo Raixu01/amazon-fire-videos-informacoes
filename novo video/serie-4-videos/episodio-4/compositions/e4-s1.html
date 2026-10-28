@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div id="e4-s1" data-composition-id="e4-s1" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="two wide"><div class="stack"><div class="eyebrow green">FOCOS DETECTADOS NO XINGU</div><h2>Nos mesmos períodos:</h2><div class="barrow"><span>2025</span><div class="bartrack"><div class="barfill old" data-ratio="0.3017896"></div></div><span class="barlabel">1.113</span></div><div class="barrow"><span>2026</span><div class="bartrack"><div class="barfill" data-ratio="1"></div></div><span class="barlabel">3.688</span></div><div class="small muted">Base zero · setembro + 1–26 de outubro</div></div><div class="stack" style="padding-left:50px"><div class="big accent">+231%</div><p>de focos detectados</p><div class="note">Mais de três vezes o total do período anterior.</div></div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e4-s1');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e4-s1']=tl;})();
+</script></template></body></html>

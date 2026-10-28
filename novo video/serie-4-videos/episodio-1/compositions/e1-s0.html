@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div data-hf-id="hf-3q5b" id="e1-s0" data-composition-id="e1-s0" data-width="1920" data-height="1080"><div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-qiz0" class="inside"><div data-hf-id="hf-ux4b" class="two wide"><div data-hf-id="hf-d1zs" class="stack"><div data-hf-id="hf-nry2" class="eyebrow accent">UM AVISO PERTO DE VOCÊ</div><h1 data-hf-id="hf-emea">Você também recebeu?</h1><p data-hf-id="hf-6vov" class=lead>Sua região está sob alerta de incêndios.</p><div data-hf-id="hf-oaff" class="tag">Mensagem de 11/10/2026</div></div><div data-hf-id="hf-sj30" class="screenshot"><img data-hf-id="hf-cls3" src="assets/aviso.png" alt="Alerta de incêndios recebido em 11 de outubro de 2026"><div data-hf-id="hf-8r1y" class="name-mask"></div></div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e1-s0');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e1-s0']=tl;})();
+</script></template></body></html>

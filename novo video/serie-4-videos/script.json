@@ -1,0 +1,165 @@
+[
+  {
+    "episode": 1,
+    "title": "Você também recebeu esse aviso?",
+    "scenes": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Você também recebeu esta mensagem no celular? Sua região está sob alerta de incêndios."
+      },
+      {
+        "start": 8,
+        "end": 20,
+        "text": "O aviso chama atenção para um risco que pode chegar até a nossa casa: a fumaça. E traz cuidados para reduzir a exposição."
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "text": "Na estiagem, a vegetação fica mais seca e o fogo encontra condições para se espalhar. Na Amazônia, esse é um período que exige atenção."
+      },
+      {
+        "start": 34,
+        "end": 49,
+        "text": "A fumaça pode afetar a respiração, principalmente de crianças, idosos e pessoas com doenças respiratórias. Por isso, acompanhar os avisos oficiais é uma forma de se proteger."
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "text": "O que está acontecendo por aqui? No próximo vídeo, os mapas dos satélites ajudam a entender o cenário."
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "title": "Por que esta época exige atenção?",
+    "scenes": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Por que falar de fogo agora? Na estiagem, a vegetação fica mais vulnerável."
+      },
+      {
+        "start": 8,
+        "end": 30,
+        "text": "Estes mapas mostram focos de calor detectados nos municípios da Amazônia Legal, em setembro e outubro, de dois mil e vinte a dois mil e vinte e seis. As cores mostram como os registros variam entre lugares e anos."
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "text": "O El Niño pode reduzir as chuvas em partes da Amazônia e favorecer condições para o fogo se espalhar. Em outubro de dois mil e vinte e seis, o fenômeno está em curso."
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "text": "Mas ele não explica tudo. A origem do fogo e as condições locais também precisam ser consideradas."
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "text": "Agora vamos aproximar o mapa e olhar os dias de maior pico no Xingu."
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "title": "Os dias em que o Xingu concentrou mais focos",
+    "scenes": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "No Xingu, alguns dias tiveram muito mais focos do que outros."
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "text": "O recorte reúne dez municípios. Selecionamos os três maiores picos de cada mês."
+      },
+      {
+        "start": 15,
+        "end": 30,
+        "text": "Em setembro, os destaques foram os dias treze, vinte e um e vinte e seis. O maior pico ocorreu no dia vinte e um: cento e quarenta e nove focos.",
+        "phrases": [
+          {
+            "start": 15,
+            "end": 20,
+            "text": "Treze de setembro: cento e um focos."
+          },
+          {
+            "start": 20,
+            "end": 25,
+            "text": "Vinte e um de setembro: cento e quarenta e nove."
+          },
+          {
+            "start": 25,
+            "end": 30,
+            "text": "Vinte e seis de setembro: cento e oito."
+          }
+        ]
+      },
+      {
+        "start": 30,
+        "end": 45,
+        "text": "Em outubro, até o dia vinte e seis, os maiores totais foram nos dias nove, doze e vinte e cinco. O dia nove teve trezentos e trinta e seis focos.",
+        "phrases": [
+          {
+            "start": 30,
+            "end": 35,
+            "text": "Nove de outubro: trezentos e trinta e seis focos."
+          },
+          {
+            "start": 35,
+            "end": 40,
+            "text": "Doze de outubro: trezentos e quatorze."
+          },
+          {
+            "start": 40,
+            "end": 45,
+            "text": "Vinte e cinco de outubro: duzentos e noventa e sete."
+          }
+        ]
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "text": "Em nove de outubro, Altamira registrou cento e quatro focos. Focos não medem área queimada."
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "E como esse cenário se compara ao de dois mil e vinte e cinco?"
+      }
+    ]
+  },
+  {
+    "episode": 4,
+    "title": "O que mudou e o que a lei diz",
+    "scenes": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "No Xingu, o que mudou de dois mil e vinte e cinco para dois mil e vinte e seis?"
+      },
+      {
+        "start": 7,
+        "end": 22,
+        "text": "Comparando setembro e os mesmos vinte e seis dias de outubro, os registros passaram de mil cento e treze para três mil seiscentos e oitenta e oito: um aumento de duzentos e trinta e um por cento."
+      },
+      {
+        "start": 22,
+        "end": 35,
+        "text": "Em dois mil e vinte e cinco, não havia El Niño nesse período. Agora, há. O fenômeno aumenta o risco climático, mas não explica sozinho o aumento dos focos."
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "text": "A Lei de Crimes Ambientais tipifica provocar incêndio em floresta ou em demais formas de vegetação."
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "text": "O alerta merece atenção. Acompanhe as orientações oficiais: prevenir incêndios é proteger a floresta, a saúde e quem vive aqui."
+      }
+    ]
+  }
+]

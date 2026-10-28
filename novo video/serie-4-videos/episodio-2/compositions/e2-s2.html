@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div id="e2-s2" data-composition-id="e2-s2" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="two"><div class="stack"><div class="eyebrow accent">CLIMA E RISCO</div><h1>El Niño pode favorecer a seca.</h1><p class=lead>Menos chuva pode facilitar a propagação do fogo.</p></div><div class="stack"><div class="eyebrow green">OUTUBRO DE 2026</div><div class="large accent">El Niño em curso</div><div class="note">Condição confirmada pela NOAA em 08/10/2026.</div><div class="tag">2023–2024: episódio anterior</div></div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e2-s2');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e2-s2']=tl;})();
+</script></template></body></html>

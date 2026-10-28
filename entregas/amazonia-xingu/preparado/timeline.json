@@ -1,0 +1,538 @@
+{
+  "fps": 30,
+  "total_frames": 4500,
+  "cenas": [
+    {
+      "cena": "abertura",
+      "periodo": "",
+      "inicio_frame": 0,
+      "fim_frame_exclusivo": 180,
+      "limites": "conforme_roteiro"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2018",
+      "inicio_frame": 180,
+      "fim_frame_exclusivo": 330,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2019",
+      "inicio_frame": 330,
+      "fim_frame_exclusivo": 480,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2020",
+      "inicio_frame": 480,
+      "fim_frame_exclusivo": 630,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2021",
+      "inicio_frame": 630,
+      "fim_frame_exclusivo": 780,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2022",
+      "inicio_frame": 780,
+      "fim_frame_exclusivo": 930,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2023",
+      "inicio_frame": 930,
+      "fim_frame_exclusivo": 1080,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2024",
+      "inicio_frame": 1080,
+      "fim_frame_exclusivo": 1230,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2025",
+      "inicio_frame": 1230,
+      "fim_frame_exclusivo": 1380,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "historico_duplo",
+      "periodo": "2026",
+      "inicio_frame": 1380,
+      "fim_frame_exclusivo": 1530,
+      "limites": "todos_amazonia_legal"
+    },
+    {
+      "cena": "zoom_xingu",
+      "periodo": "",
+      "inicio_frame": 1530,
+      "fim_frame_exclusivo": 1710,
+      "limites": "transicao_para_xingu"
+    },
+    {
+      "cena": "titulo_setembro",
+      "periodo": "",
+      "inicio_frame": 1710,
+      "fim_frame_exclusivo": 1830,
+      "limites": "conforme_roteiro"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-01",
+      "inicio_frame": 1830,
+      "fim_frame_exclusivo": 1860,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-02",
+      "inicio_frame": 1860,
+      "fim_frame_exclusivo": 1890,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-03",
+      "inicio_frame": 1890,
+      "fim_frame_exclusivo": 1920,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-04",
+      "inicio_frame": 1920,
+      "fim_frame_exclusivo": 1950,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-05",
+      "inicio_frame": 1950,
+      "fim_frame_exclusivo": 1980,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-06",
+      "inicio_frame": 1980,
+      "fim_frame_exclusivo": 2010,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-07",
+      "inicio_frame": 2010,
+      "fim_frame_exclusivo": 2040,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-08",
+      "inicio_frame": 2040,
+      "fim_frame_exclusivo": 2070,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-09",
+      "inicio_frame": 2070,
+      "fim_frame_exclusivo": 2100,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-10",
+      "inicio_frame": 2100,
+      "fim_frame_exclusivo": 2130,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-11",
+      "inicio_frame": 2130,
+      "fim_frame_exclusivo": 2160,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-12",
+      "inicio_frame": 2160,
+      "fim_frame_exclusivo": 2190,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-13",
+      "inicio_frame": 2190,
+      "fim_frame_exclusivo": 2220,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-14",
+      "inicio_frame": 2220,
+      "fim_frame_exclusivo": 2250,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-15",
+      "inicio_frame": 2250,
+      "fim_frame_exclusivo": 2280,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-16",
+      "inicio_frame": 2280,
+      "fim_frame_exclusivo": 2310,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-17",
+      "inicio_frame": 2310,
+      "fim_frame_exclusivo": 2340,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-18",
+      "inicio_frame": 2340,
+      "fim_frame_exclusivo": 2370,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-19",
+      "inicio_frame": 2370,
+      "fim_frame_exclusivo": 2400,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-20",
+      "inicio_frame": 2400,
+      "fim_frame_exclusivo": 2430,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-21",
+      "inicio_frame": 2430,
+      "fim_frame_exclusivo": 2460,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-22",
+      "inicio_frame": 2460,
+      "fim_frame_exclusivo": 2490,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-23",
+      "inicio_frame": 2490,
+      "fim_frame_exclusivo": 2520,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-24",
+      "inicio_frame": 2520,
+      "fim_frame_exclusivo": 2550,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-25",
+      "inicio_frame": 2550,
+      "fim_frame_exclusivo": 2580,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-26",
+      "inicio_frame": 2580,
+      "fim_frame_exclusivo": 2610,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-27",
+      "inicio_frame": 2610,
+      "fim_frame_exclusivo": 2640,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-28",
+      "inicio_frame": 2640,
+      "fim_frame_exclusivo": 2670,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-29",
+      "inicio_frame": 2670,
+      "fim_frame_exclusivo": 2700,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_setembro",
+      "periodo": "2026-09-30",
+      "inicio_frame": 2700,
+      "fim_frame_exclusivo": 2730,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "titulo_outubro",
+      "periodo": "",
+      "inicio_frame": 2730,
+      "fim_frame_exclusivo": 2850,
+      "limites": "conforme_roteiro"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-01",
+      "inicio_frame": 2850,
+      "fim_frame_exclusivo": 2880,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-02",
+      "inicio_frame": 2880,
+      "fim_frame_exclusivo": 2910,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-03",
+      "inicio_frame": 2910,
+      "fim_frame_exclusivo": 2940,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-04",
+      "inicio_frame": 2940,
+      "fim_frame_exclusivo": 2970,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-05",
+      "inicio_frame": 2970,
+      "fim_frame_exclusivo": 3000,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-06",
+      "inicio_frame": 3000,
+      "fim_frame_exclusivo": 3030,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-07",
+      "inicio_frame": 3030,
+      "fim_frame_exclusivo": 3060,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-08",
+      "inicio_frame": 3060,
+      "fim_frame_exclusivo": 3090,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-09",
+      "inicio_frame": 3090,
+      "fim_frame_exclusivo": 3120,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-10",
+      "inicio_frame": 3120,
+      "fim_frame_exclusivo": 3150,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-11",
+      "inicio_frame": 3150,
+      "fim_frame_exclusivo": 3180,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-12",
+      "inicio_frame": 3180,
+      "fim_frame_exclusivo": 3210,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-13",
+      "inicio_frame": 3210,
+      "fim_frame_exclusivo": 3240,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-14",
+      "inicio_frame": 3240,
+      "fim_frame_exclusivo": 3270,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-15",
+      "inicio_frame": 3270,
+      "fim_frame_exclusivo": 3300,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-16",
+      "inicio_frame": 3300,
+      "fim_frame_exclusivo": 3330,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-17",
+      "inicio_frame": 3330,
+      "fim_frame_exclusivo": 3360,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-18",
+      "inicio_frame": 3360,
+      "fim_frame_exclusivo": 3390,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-19",
+      "inicio_frame": 3390,
+      "fim_frame_exclusivo": 3420,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-20",
+      "inicio_frame": 3420,
+      "fim_frame_exclusivo": 3450,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-21",
+      "inicio_frame": 3450,
+      "fim_frame_exclusivo": 3480,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-22",
+      "inicio_frame": 3480,
+      "fim_frame_exclusivo": 3510,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-23",
+      "inicio_frame": 3510,
+      "fim_frame_exclusivo": 3540,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-24",
+      "inicio_frame": 3540,
+      "fim_frame_exclusivo": 3570,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-25",
+      "inicio_frame": 3570,
+      "fim_frame_exclusivo": 3600,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-26",
+      "inicio_frame": 3600,
+      "fim_frame_exclusivo": 3630,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-27",
+      "inicio_frame": 3630,
+      "fim_frame_exclusivo": 3660,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-28",
+      "inicio_frame": 3660,
+      "fim_frame_exclusivo": 3690,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-29",
+      "inicio_frame": 3690,
+      "fim_frame_exclusivo": 3720,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-30",
+      "inicio_frame": 3720,
+      "fim_frame_exclusivo": 3750,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "diario_outubro",
+      "periodo": "2026-10-31",
+      "inicio_frame": 3750,
+      "fim_frame_exclusivo": 3780,
+      "limites": "somente_xingu"
+    },
+    {
+      "cena": "comparativo",
+      "periodo": "",
+      "inicio_frame": 3780,
+      "fim_frame_exclusivo": 4320,
+      "limites": "conforme_roteiro"
+    },
+    {
+      "cena": "creditos",
+      "periodo": "",
+      "inicio_frame": 4320,
+      "fim_frame_exclusivo": 4500,
+      "limites": "conforme_roteiro"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "snapshot_id": "xingu-74d0fdff5980abae3d40",
+  "entradas": {
+    "versao": 1,
+    "config_sha256": "06f7b2e4a4192625cc309d595cc19b22faa6e915983dd346b86a2d3e2b3710a2",
+    "coleta_sha256": "20191c3475eb53e241ca27e471ab2376e6d3d9b18efc178caf0187dad97d3d7d",
+    "malha_sha256": "4c578694c96f26a8d85222cb350bdb282ce5d34c76e5b8b923ff49573fd82a89",
+    "visual_sha256": "4dc9508d2933e4cde0676b4c237a6507ff1718daf8519c521fd2320a442d3eae",
+    "evidencia_sha256": "b25545e85d95d4482f655894418a9664ed95531a3ed99e21f6a16a76af897f8c",
+    "codigo_sha256": "d37e140a68eb77d913b008579141eafd7bba137c254b54e9e729aa9817e7a8cb",
+    "schema_sha256": "c778c81c76a9c8bbd6eeff19437773c7c58fdba5650fcbbf85a56fbb80307ce8",
+    "corte_exclusivo_utc": "2026-10-27T00:00:00+00:00"
+  },
+  "sensor": "AQUA_M-T",
+  "fuso": "UTC",
+  "corte_exclusivo_utc": "2026-10-27T00:00:00+00:00",
+  "arquivos_sha256": {
+    "auditoria.json": "97a06147ad10f27c5de017c433ded9c84aa61d397354af1a993f0b0015d4d953",
+    "comparativo.json": "d238a5c62a913bc07f2b40d6bdd272888ff65fbf148bc5bbad1825d8f6a93a43",
+    "historico_municipal.csv": "16189614e20c4535eb89d2ef4c1ee49702ba02bba10dac9d7cf36239536b2def",
+    "historico_municipal.parquet": "3d63d34c3bbd662fa1147408615ab07dc198197feb92670785013bb0a597ffe8",
+    "historico_video.json": "b3b0fa288e5cb835feaf283be969078252155642937896c8bc579fbae7800b82",
+    "municipios_amazonia.geojson": "a2ab1fcd7ae23e191f463be06bb72e3e9e3564a45bb1b417fb7f6bbab113c934",
+    "municipios_xingu.geojson": "663d9668752bdfdf2c7e26c2d3c47b964471c10b741dd234d56411340994adc9",
+    "xingu_diario.csv": "d19d23da8770108e75f611991f912bc9ae0b2cce7620850dcd00828d84eb6922",
+    "xingu_diario.parquet": "450e5fab76068a783273be96f1977dc16c8bf7ce3f8fe8dccd40255f8be8d3bc",
+    "xingu_pontos.json": "dd5e49e9705397e4c14499f27deec7a874d7cebc97c2db785c9a9b18828e98b5"
+  },
+  "estado": "validado_ingestao",
+  "edicao_mensal_completa": false,
+  "comparativos_disponiveis": true
+}

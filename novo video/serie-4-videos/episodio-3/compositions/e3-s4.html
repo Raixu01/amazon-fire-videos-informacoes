@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div id="e3-s4" data-composition-id="e3-s4" data-width="1920" data-height="1080"><div class="stage"><div class="inside"><div class="two"><div class="mapbox"><img class="map" src="assets/d-2026-10-09.svg" alt="Focos no Xingu em 9 de outubro"></div><div class="stack"><div class="eyebrow accent">09 DE OUTUBRO · ALTAMIRA</div><h1>104 focos</h1><p class=lead>Dos 336 registrados na região naquele dia.</p><div class="callout">Focos detectados não medem hectares queimados.</div></div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e3-s4');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e3-s4']=tl;})();
+</script></template></body></html>

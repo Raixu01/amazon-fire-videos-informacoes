@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div data-hf-id="hf-uhef" id="e1-s2" data-composition-id="e1-s2" data-width="1920" data-height="1080"><div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-qiz0" class="inside"><div data-hf-id="hf-d1zs" class="stack"><div data-hf-id="hf-9qlx" class="eyebrow accent">ÉPOCA DE ESTIAGEM</div><h1 data-hf-id="hf-jbxl">O fogo encontra condições para se espalhar.</h1><div data-hf-id="hf-i9yj" class="chain"><div data-hf-id="hf-7q37" class="chain-step">Menos chuva</div><div data-hf-id="hf-drib" class="arrow">→</div><div data-hf-id="hf-3oyd" class="chain-step">Vegetação mais seca</div><div data-hf-id="hf-yhhf" class="arrow">→</div><div data-hf-id="hf-n1bk" class="chain-step accent">Maior risco</div></div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e1-s2');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e1-s2']=tl;})();
+</script></template></body></html>

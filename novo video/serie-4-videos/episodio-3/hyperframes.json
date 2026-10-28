@@ -1,0 +1,11 @@
+{
+  "paths": {
+    "blocks": "compositions",
+    "components": "compositions/components",
+    "assets": "assets"
+  },
+  "authoringSkill": "general-video",
+  "media": {
+    "autoProxy": false
+  }
+}

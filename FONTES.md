@@ -1,0 +1,100 @@
+# Fontes registradas nos arquivos de produção
+
+URLs extraídas das notas locais, com o documento em que aparecem. O registro não significa nova verificação online.
+
+- http://localhost:8765
+  - Registro: `README-PROJETO-ORIGINAL.md`
+- http://localhost:8765](http://localhost:8765
+  - Registro: `CONFIGURACAO-PROPOSTA.md`
+- https://cesium.com/platform/cesiumjs/
+  - Registro: `entregas/altamira/LEIA-ME.md`
+- https://data.inpe.br/queimadas/dados-abertos/
+  - Registro: `entregas/altamira/LEIA-ME.md`, `entregas/atm-2026/LEIA-ME.md`
+- https://data.inpe.br/queimadas/faq/
+  - Registro: `entregas/amazonia-xingu/INGESTAO.md`, `entregas/amazonia-xingu/PROPOSTA.md`, `novo video/STORYBOARD-4-VIDEOS.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/
+  - Registro: `entregas/amazonia-xingu/COLETA.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2003.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2004.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2005.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2006.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2007.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2008.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2009.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2010.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2011.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2012.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2013.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2014.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2015.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2016.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2017.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2018.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2019.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2020.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2021.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2022.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2023.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2024.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2025.zip
+  - Registro: `dados-brutos/README.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/
+  - Registro: `entregas/altamira/LEIA-ME.md`, `entregas/atm-2026/LEIA-ME.md`
+- https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/mensal/Brasil/
+  - Registro: `entregas/atm-2026/LEIA-ME.md`
+- https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer
+  - Registro: `entregas/altamira/LEIA-ME.md`
+- https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/amazonia_legal/2024/
+  - Registro: `dados-brutos/README.md`, `entregas/altamira/LEIA-ME.md`, `entregas/atm-2026/LEIA-ME.md`
+- https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi
+  - Registro: `entregas/altamira/LEIA-ME.md`
+- https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.1.1&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&STYLES=&FORMAT=image%2Fpng&TRANSPARENT=TRUE&SRS=EPSG%3A4326&BBOX=-57%2C-11%2C-49%2C-1&WIDTH=960&HEIGHT=1200&TIME=2026-10-14
+  - Registro: `entregas/altamira/consulta_gibs.txt`
+- https://github.com/Raixu01/amazon-fire
+  - Registro: `README.md`
+- https://github.com/russellsamora/scrollama
+  - Registro: `README-PROJETO-ORIGINAL.md`
+- https://observablehq.github.io/plot/features/marks
+  - Registro: `README-PROJETO-ORIGINAL.md`
+- https://portal.inmet.gov.br/noticias/el-ni%C3%B1o
+  - Registro: `novo video/STORYBOARD-4-VIDEOS.md`
+- https://raixu01.github.io/amazon-fire/video.html
+  - Registro: `README-PROJETO-ORIGINAL.md`
+- https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer
+  - Registro: `entregas/altamira/LEIA-ME.md`
+- https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/
+  - Registro: `novo video/STORYBOARD-4-VIDEOS.md`
+- https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml
+  - Registro: `novo video/STORYBOARD-4-VIDEOS.md`
+- https://www.gov.br/mdr/pt-br/assuntos/desenvolvimento-regional/pdrsx/pdrsx
+  - Registro: `entregas/amazonia-xingu/PROPOSTA.md`
+- https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/fumaca-das-queimadas-saiba-como-proteger-a-sua-saude-e-onde-buscar-atendimento
+  - Registro: `novo video/STORYBOARD-4-VIDEOS.md`
+- https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15819-amazonia-legal.html
+  - Registro: `novo video/STORYBOARD-4-VIDEOS.md`
+- https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+  - Registro: `novo video/STORYBOARD-4-VIDEOS.md`
+- https://www.remotion.dev/docs/use-current-frame
+  - Registro: `entregas/amazonia-xingu/COMPOSICAO.md`

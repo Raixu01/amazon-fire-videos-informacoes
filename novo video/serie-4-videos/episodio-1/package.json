@@ -1,0 +1,8 @@
+{
+  "name": "pulso-xingu-episodio-1",
+  "private": true,
+  "scripts": {
+    "check": "hyperframes check",
+    "render": "hyperframes render --fps 30 --quality delivery --output ../renders/01.mp4"
+  }
+}

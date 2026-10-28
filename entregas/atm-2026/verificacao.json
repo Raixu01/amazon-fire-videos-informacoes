@@ -1,0 +1,130 @@
+{
+  "dados_conciliados": true,
+  "camadas_diarias": 15,
+  "videos": [
+    {
+      "arquivo": "previa-pulso-atm.mp4",
+      "duracao": 19.0,
+      "fps": 30.0,
+      "tamanho": [
+        1920,
+        1080
+      ],
+      "codec": "h264",
+      "decodificacao_completa": true,
+      "sha256": "bcbad493caae4eeef57ba86e584100487ffa8d368d7a4a71c9a0aaa6c21ba597"
+    },
+    {
+      "arquivo": "pulso-atm-2026.mp4",
+      "duracao": 90.0,
+      "fps": 30.0,
+      "tamanho": [
+        1920,
+        1080
+      ],
+      "codec": "h264",
+      "decodificacao_completa": true,
+      "sha256": "8b201328817b3c0636d33928f5c4d30fe0f68a8db0bea3d90890fd2e1be6932f"
+    }
+  ],
+  "mapas_no_video": [
+    {
+      "dias": [
+        1,
+        2
+      ],
+      "fracao_pixels_laranja_diferentes": 0.7636
+    },
+    {
+      "dias": [
+        2,
+        3
+      ],
+      "fracao_pixels_laranja_diferentes": 0.919
+    },
+    {
+      "dias": [
+        3,
+        4
+      ],
+      "fracao_pixels_laranja_diferentes": 0.8509
+    },
+    {
+      "dias": [
+        4,
+        5
+      ],
+      "fracao_pixels_laranja_diferentes": 0.69
+    },
+    {
+      "dias": [
+        5,
+        6
+      ],
+      "fracao_pixels_laranja_diferentes": 0.728
+    },
+    {
+      "dias": [
+        6,
+        7
+      ],
+      "fracao_pixels_laranja_diferentes": 0.7087
+    },
+    {
+      "dias": [
+        7,
+        8
+      ],
+      "fracao_pixels_laranja_diferentes": 0.6865
+    },
+    {
+      "dias": [
+        8,
+        9
+      ],
+      "fracao_pixels_laranja_diferentes": 0.6328
+    },
+    {
+      "dias": [
+        9,
+        10
+      ],
+      "fracao_pixels_laranja_diferentes": 0.5769
+    },
+    {
+      "dias": [
+        10,
+        11
+      ],
+      "fracao_pixels_laranja_diferentes": 0.6287
+    },
+    {
+      "dias": [
+        11,
+        12
+      ],
+      "fracao_pixels_laranja_diferentes": 0.691
+    },
+    {
+      "dias": [
+        12,
+        13
+      ],
+      "fracao_pixels_laranja_diferentes": 0.7384
+    },
+    {
+      "dias": [
+        13,
+        14
+      ],
+      "fracao_pixels_laranja_diferentes": 0.7384
+    },
+    {
+      "dias": [
+        14,
+        15
+      ],
+      "fracao_pixels_laranja_diferentes": 0.6787
+    }
+  ]
+}

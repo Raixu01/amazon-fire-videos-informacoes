@@ -1,0 +1,295 @@
+{
+  "sensor": "AQUA_M-T",
+  "fuso": "UTC",
+  "unidade": "focos de calor detectados",
+  "periodos": [
+    {
+      "periodo": "setembro",
+      "parcial": false,
+      "inicio_atual_utc": "2026-09-01T00:00:00+00:00",
+      "fim_atual_exclusivo_utc": "2026-10-01T00:00:00+00:00",
+      "estado": "validado",
+      "atual": 1006,
+      "anterior": 527,
+      "diferenca": 479,
+      "variacao_pct": 90.89,
+      "municipios": [
+        {
+          "codigo_ibge": "1500602",
+          "atual": 524,
+          "anterior": 252,
+          "diferenca": 272,
+          "variacao_pct": 107.94,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1500859",
+          "atual": 87,
+          "anterior": 24,
+          "diferenca": 63,
+          "variacao_pct": 262.5,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1501725",
+          "atual": 3,
+          "anterior": 22,
+          "diferenca": -19,
+          "variacao_pct": -86.36,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1504455",
+          "atual": 16,
+          "anterior": 30,
+          "diferenca": -14,
+          "variacao_pct": -46.67,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505486",
+          "atual": 107,
+          "anterior": 47,
+          "diferenca": 60,
+          "variacao_pct": 127.66,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505650",
+          "atual": 88,
+          "anterior": 36,
+          "diferenca": 52,
+          "variacao_pct": 144.44,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505908",
+          "atual": 26,
+          "anterior": 8,
+          "diferenca": 18,
+          "variacao_pct": 225.0,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1507805",
+          "atual": 59,
+          "anterior": 50,
+          "diferenca": 9,
+          "variacao_pct": 18.0,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508159",
+          "atual": 91,
+          "anterior": 43,
+          "diferenca": 48,
+          "variacao_pct": 111.63,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508357",
+          "atual": 5,
+          "anterior": 15,
+          "diferenca": -10,
+          "variacao_pct": -66.67,
+          "base_zero": false
+        }
+      ],
+      "inicio_anterior_utc": "2025-09-01T00:00:00+00:00",
+      "fim_anterior_exclusivo_utc": "2025-10-01T00:00:00+00:00",
+      "base_zero": false
+    },
+    {
+      "periodo": "outubro",
+      "parcial": true,
+      "inicio_atual_utc": "2026-10-01T00:00:00+00:00",
+      "fim_atual_exclusivo_utc": "2026-10-27T00:00:00+00:00",
+      "estado": "validado",
+      "atual": 2682,
+      "anterior": 586,
+      "diferenca": 2096,
+      "variacao_pct": 357.68,
+      "municipios": [
+        {
+          "codigo_ibge": "1500602",
+          "atual": 680,
+          "anterior": 119,
+          "diferenca": 561,
+          "variacao_pct": 471.43,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1500859",
+          "atual": 174,
+          "anterior": 93,
+          "diferenca": 81,
+          "variacao_pct": 87.1,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1501725",
+          "atual": 5,
+          "anterior": 9,
+          "diferenca": -4,
+          "variacao_pct": -44.44,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1504455",
+          "atual": 95,
+          "anterior": 43,
+          "diferenca": 52,
+          "variacao_pct": 120.93,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505486",
+          "atual": 338,
+          "anterior": 108,
+          "diferenca": 230,
+          "variacao_pct": 212.96,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505650",
+          "atual": 346,
+          "anterior": 13,
+          "diferenca": 333,
+          "variacao_pct": 2561.54,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505908",
+          "atual": 92,
+          "anterior": 13,
+          "diferenca": 79,
+          "variacao_pct": 607.69,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1507805",
+          "atual": 113,
+          "anterior": 126,
+          "diferenca": -13,
+          "variacao_pct": -10.32,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508159",
+          "atual": 821,
+          "anterior": 51,
+          "diferenca": 770,
+          "variacao_pct": 1509.8,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508357",
+          "atual": 18,
+          "anterior": 11,
+          "diferenca": 7,
+          "variacao_pct": 63.64,
+          "base_zero": false
+        }
+      ],
+      "inicio_anterior_utc": "2025-10-01T00:00:00+00:00",
+      "fim_anterior_exclusivo_utc": "2025-10-27T00:00:00+00:00",
+      "base_zero": false
+    },
+    {
+      "periodo": "conjunto",
+      "parcial": true,
+      "inicio_atual_utc": "2026-09-01T00:00:00+00:00",
+      "fim_atual_exclusivo_utc": "2026-10-27T00:00:00+00:00",
+      "estado": "validado",
+      "atual": 3688,
+      "anterior": 1113,
+      "diferenca": 2575,
+      "variacao_pct": 231.36,
+      "municipios": [
+        {
+          "codigo_ibge": "1500602",
+          "atual": 1204,
+          "anterior": 371,
+          "diferenca": 833,
+          "variacao_pct": 224.53,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1500859",
+          "atual": 261,
+          "anterior": 117,
+          "diferenca": 144,
+          "variacao_pct": 123.08,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1501725",
+          "atual": 8,
+          "anterior": 31,
+          "diferenca": -23,
+          "variacao_pct": -74.19,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1504455",
+          "atual": 111,
+          "anterior": 73,
+          "diferenca": 38,
+          "variacao_pct": 52.05,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505486",
+          "atual": 445,
+          "anterior": 155,
+          "diferenca": 290,
+          "variacao_pct": 187.1,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505650",
+          "atual": 434,
+          "anterior": 49,
+          "diferenca": 385,
+          "variacao_pct": 785.71,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505908",
+          "atual": 118,
+          "anterior": 21,
+          "diferenca": 97,
+          "variacao_pct": 461.9,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1507805",
+          "atual": 172,
+          "anterior": 176,
+          "diferenca": -4,
+          "variacao_pct": -2.27,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508159",
+          "atual": 912,
+          "anterior": 94,
+          "diferenca": 818,
+          "variacao_pct": 870.21,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508357",
+          "atual": 23,
+          "anterior": 26,
+          "diferenca": -3,
+          "variacao_pct": -11.54,
+          "base_zero": false
+        }
+      ],
+      "inicio_anterior_utc": "2025-09-01T00:00:00+00:00",
+      "fim_anterior_exclusivo_utc": "2025-10-27T00:00:00+00:00",
+      "base_zero": false
+    }
+  ]
+}

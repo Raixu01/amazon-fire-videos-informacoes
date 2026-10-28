@@ -1,0 +1,281 @@
+{
+  "gerado_utc": "2026-10-27T12:32:24.047412+00:00",
+  "importacao_executada": false,
+  "fontes": [
+    {
+      "arquivo": "focos_br_ref_2018.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2018.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2018.zip",
+      "disponivel": true,
+      "bytes": 5278250,
+      "sha256": "f6d6168071d365073a3ba7e277f9464739f3f502cc411c9f64399c4ea740390d",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_br_ref_2019.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2019.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2019.zip",
+      "disponivel": true,
+      "bytes": 7766490,
+      "sha256": "58a6fe69d282d087822aade262826bf2139f2554781d0e37b672567369e4f733",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_br_ref_2020.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2020.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2020.zip",
+      "disponivel": true,
+      "bytes": 8786351,
+      "sha256": "fba793aa304863445dad6d434dd57bd0e904d97f50d9652a729c30ddf8fb7686",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_br_ref_2021.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2021.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2021.zip",
+      "disponivel": true,
+      "bytes": 7623094,
+      "sha256": "9edeb229c078b98df37d17b460bed74a0d13bd0688a530386ca815ba2f8a68e6",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_br_ref_2022.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2022.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2022.zip",
+      "disponivel": true,
+      "bytes": 8256945,
+      "sha256": "75538cbfb99bbbe543cb786d7b8f7650537a1333327f8bf17cda7178c01878ea",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_br_ref_2023.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2023.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2023.zip",
+      "disponivel": true,
+      "bytes": 7458410,
+      "sha256": "4cc635d1adf1a7f59d18640ff13a8779cb3b0f2aecbc867dacc86959d892b880",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_br_ref_2024.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2024.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2024.zip",
+      "disponivel": true,
+      "bytes": 10727110,
+      "sha256": "a2cec2f67483a4a95956a471d5cbdb7b3cbd93b21c9b87c845a649ef89abf4e1",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_br_ref_2025.zip",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_br_ref_2025.zip",
+      "tipo": "anual_referencia",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/focos_br_ref_2025.zip",
+      "disponivel": true,
+      "bytes": 5906397,
+      "sha256": "63b144c47279991dca0f2007e23e15b4a932355b6c93d033d81a245a8eab56ca",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_mensal_br_202609.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_mensal_br_202609.csv",
+      "tipo": "mensal",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/mensal/Brasil/focos_mensal_br_202609.csv",
+      "disponivel": true,
+      "bytes": 123024987,
+      "sha256": "69ecef072d0e0db63698f7e3adc101cd68f593294eefc3dcd97eeaf554bd0248",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_mensal_br_202610.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_mensal_br_202610.csv",
+      "tipo": "mensal",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/mensal/Brasil/focos_mensal_br_202610.csv",
+      "disponivel": true,
+      "bytes": 78472884,
+      "sha256": "95f16936583aefd69f4d956212cfbdda70178f179283f0302eb62d0940b3fa74",
+      "estado": "inventariado",
+      "obrigatorio": true
+    },
+    {
+      "arquivo": "focos_diario_br_20261001.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261001.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261001.csv",
+      "disponivel": true,
+      "bytes": 4751640,
+      "sha256": "5ba6c1ba6880f6283eb152d41941374450743acd20802786bcc8864328a3e25f",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261002.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261002.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261002.csv",
+      "disponivel": true,
+      "bytes": 3362970,
+      "sha256": "f4076f42ddf0df91200604c315368a9b6c8f12104e675096eef063ef05799733",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261003.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261003.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261003.csv",
+      "disponivel": true,
+      "bytes": 2455587,
+      "sha256": "24d31c6e3550bf1eec28131b98ae57435efa81bde1bc8ca638db78f31960afe2",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261004.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261004.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261004.csv",
+      "disponivel": true,
+      "bytes": 2992887,
+      "sha256": "15dc403146c89e8dac09477fc905c3db0ae0440076200f6e93c04f56d1acb86b",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261005.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261005.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261005.csv",
+      "disponivel": true,
+      "bytes": 3599036,
+      "sha256": "68d6f887d27f85b293e41fbeed801f2d262ce64f46dedd86a4a9870d6f6a621d",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261006.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261006.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261006.csv",
+      "disponivel": true,
+      "bytes": 5619775,
+      "sha256": "a8e7e6d04af265f82ddb6d462243b470f7fcc8366d23f2e70c20dacc14729212",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261007.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261007.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261007.csv",
+      "disponivel": true,
+      "bytes": 8038171,
+      "sha256": "29d615f514ab93d8f6f88b90a523bbaae0a6f1758fa0fa0ca80495f8fbcd33ab",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261008.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261008.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261008.csv",
+      "disponivel": true,
+      "bytes": 10324256,
+      "sha256": "f8fa7b24bc593b99dbc7568f9b30ad917515913e24f378df296b5aaa27732e42",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261009.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261009.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261009.csv",
+      "disponivel": true,
+      "bytes": 9734566,
+      "sha256": "f04eaf7426b72c1bbcf803da1c338838b79e8b88ccab93cc62ae041c4c7e7ed2",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261010.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261010.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261010.csv",
+      "disponivel": true,
+      "bytes": 7003812,
+      "sha256": "c9aaa653d74b6aeb150b86b48743872f61dec2996301512ffe0798563014e737",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261011.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261011.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261011.csv",
+      "disponivel": true,
+      "bytes": 5519350,
+      "sha256": "9fbd96efca9c7ffe70561d03d90272b7525d33315a1d5b54934588597035cc2f",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261012.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261012.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261012.csv",
+      "disponivel": true,
+      "bytes": 4188279,
+      "sha256": "66a7feb9482438c544f49b0461ba98074a91de09dcc80c10382e4709edb38c96",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261013.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261013.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261013.csv",
+      "disponivel": true,
+      "bytes": 4426908,
+      "sha256": "85a5e589a951e55f8ef0e19d2195f5dcc75cc853f1141b26981ad0b9ba926af5",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261014.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261014.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261014.csv",
+      "disponivel": true,
+      "bytes": 6500435,
+      "sha256": "10ad9f225b9047ded2eb597077f53d6dc3d6d7624abec89caf1d447d427e379d",
+      "estado": "inventariado",
+      "obrigatorio": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261015.csv",
+      "caminho": "C:\\Users\\user\\Documents\\Pulso\\amazon-fire\\focos_diario_br_20261015.csv",
+      "tipo": "diario",
+      "url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/diario/Brasil/focos_diario_br_20261015.csv",
+      "disponivel": true,
+      "bytes": 1578400,
+      "sha256": "d310c493bfd10484f9183ffaed14e0b012217856e4e46a6fd064f2aa4b362b7a",
+      "estado": "inventariado",
+      "obrigatorio": false
+    }
+  ]
+}

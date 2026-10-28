@@ -1,0 +1,1197 @@
+{
+  "composition": "PulsoAmazoniaXingu",
+  "frames": [
+    90,
+    255,
+    405,
+    555,
+    705,
+    855,
+    1005,
+    1155,
+    1305,
+    1455,
+    1620,
+    1709,
+    1755,
+    1830,
+    1875,
+    1919,
+    1920,
+    2145,
+    4485,
+    4590,
+    4695,
+    6765,
+    6945,
+    7035,
+    7395,
+    7500,
+    7680,
+    7860,
+    8050
+  ],
+  "logs": [],
+  "measurements": [
+    {
+      "frame": 90,
+      "scene": "abertura",
+      "maps": [
+        {
+          "id": "opening",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 255,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 405,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 555,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 705,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 855,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1005,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1155,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1305,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1455,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1620,
+      "scene": "zoom_xingu",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "zoom",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1709,
+      "scene": "zoom_xingu",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "zoom",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1755,
+      "scene": "titulo_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1830,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 9
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 9"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 0"
+        }
+      ],
+      "dayTotal": "9",
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1875,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 9
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 9"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 0"
+        }
+      ],
+      "dayTotal": "9",
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1919,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 9
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 9"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 0"
+        }
+      ],
+      "dayTotal": "9",
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1920,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 29
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 2"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 15"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 10"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 1"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 1"
+        }
+      ],
+      "dayTotal": "29",
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 2145,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 0"
+        }
+      ],
+      "dayTotal": "0",
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 4485,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 5
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 5"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 0"
+        }
+      ],
+      "dayTotal": "5",
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 4590,
+      "scene": "titulo_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 4695,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 138
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 7"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 15"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 5"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 70"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 6"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 5"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 4"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 26"
+        }
+      ],
+      "dayTotal": "138",
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 6765,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 147
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 1"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 2"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 18"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 3"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 16"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 12"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 1"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 59"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 27"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 8"
+        }
+      ],
+      "dayTotal": "147",
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 6945,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 12
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · 12"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · 0"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · 0"
+        }
+      ],
+      "dayTotal": "12",
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 7035,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · —"
+        }
+      ],
+      "dayTotal": "—",
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 7395,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "municipalLabels": [
+        {
+          "codigo_ibge": "1504455",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1501725",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1508159",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1505650",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1500602",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1505908",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1508357",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1505486",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1500859",
+          "text": " · —"
+        },
+        {
+          "codigo_ibge": "1507805",
+          "text": " · —"
+        }
+      ],
+      "dayTotal": "—",
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 7500,
+      "scene": "comparativo",
+      "maps": [],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 7680,
+      "scene": "comparativo",
+      "maps": [],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 7860,
+      "scene": "comparativo",
+      "maps": [],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 8050,
+      "scene": "creditos",
+      "maps": [],
+      "outsideText": [],
+      "municipalLabels": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    }
+  ]
+}

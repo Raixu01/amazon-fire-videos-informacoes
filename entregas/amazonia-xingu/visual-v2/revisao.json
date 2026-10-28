@@ -1,0 +1,68 @@
+{
+  "versao_edicao": 2,
+  "dados_analiticos_iguais": true,
+  "panorama_e_zoom": [
+    {
+      "frame": 90,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 255,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 405,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 555,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 705,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 855,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 1005,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 1155,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 1305,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 1455,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 1620,
+      "pixels_iguais": true
+    },
+    {
+      "frame": 1709,
+      "pixels_iguais": true
+    }
+  ],
+  "segundos_por_dia": 3,
+  "duracao_segundos": 272,
+  "videos_anteriores": [
+    {
+      "arquivo": "pulso-amazonia-xingu-2018-2026.mp4",
+      "preservado": true,
+      "sha256": "1afe24af942b09794012a2e261bd283c1fc046503116cbad77facbcd48619b0d"
+    },
+    {
+      "arquivo": "previa-amazonia-xingu.mp4",
+      "preservado": true,
+      "sha256": "cddafb714a3f42155942f37a212ad3944838e5853f392e3bf8d0659a23a420bb"
+    }
+  ]
+}

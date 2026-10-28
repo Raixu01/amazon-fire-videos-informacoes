@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div data-hf-id="hf-ziab" id="e1-s3" data-composition-id="e1-s3" data-width="1920" data-height="1080"><div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-qiz0" class="inside"><div data-hf-id="hf-9yku" class="two"><div data-hf-id="hf-d1zs" class="stack"><div data-hf-id="hf-w14w" class="eyebrow accent">FUMAÇA E SAÚDE</div><h1 data-hf-id="hf-78zm">Quem precisa de mais atenção?</h1><p data-hf-id="hf-d63e" class=lead>Acompanhe as orientações oficiais.</p></div><div data-hf-id="hf-g2wg" class="stack"><div data-hf-id="hf-7eko" class="numbered"><b data-hf-id="hf-27a2">01</b><span data-hf-id="hf-b7fd">Crianças</span></div><div data-hf-id="hf-1yww" class="numbered"><b data-hf-id="hf-2ll3">02</b><span data-hf-id="hf-8t3s">Idosos</span></div><div data-hf-id="hf-0rzt" class="numbered"><b data-hf-id="hf-2zw4">03</b><span data-hf-id="hf-z0bz">Pessoas com doenças respiratórias</span></div></div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e1-s3');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e1-s3']=tl;})();
+</script></template></body></html>

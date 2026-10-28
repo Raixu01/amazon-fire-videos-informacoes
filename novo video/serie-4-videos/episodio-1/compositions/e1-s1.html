@@ -1,0 +1,9 @@
+<!doctype html><html lang="pt-BR"><body><template>
+<div data-hf-id="hf-wu9f" id="e1-s1" data-composition-id="e1-s1" data-width="1920" data-height="1080"><div data-hf-id="hf-tan6" class="stage"><div data-hf-id="hf-qiz0" class="inside"><div data-hf-id="hf-ux4b" class="two wide"><div data-hf-id="hf-d1zs" class="stack"><div data-hf-id="hf-xm9d" class="eyebrow accent">O QUE O AVISO DIZ</div><h1 data-hf-id="hf-kykc">O risco também está na fumaça.</h1><p data-hf-id="hf-hub4" class=lead>Ela pode chegar até a nossa casa.</p></div><div data-hf-id="hf-g2wg" class="stack"><div data-hf-id="hf-l8d9" class="quote accent">“A fumaça pode causar problemas respiratórios.”</div><div data-hf-id="hf-o17x" class="quote-line">Trecho da mensagem recebida</div><div data-hf-id="hf-vwht" class="callout">O aviso traz cuidados para reduzir a exposição.</div></div></div></div></div></div>
+<script>
+(()=>{const el=document.getElementById('e1-s1');const tl=gsap.timeline({paused:true});
+tl.fromTo(el.querySelector('.inside'),{opacity:0,y:18},{opacity:1,y:0,duration:.45,ease:'power2.out'},0);
+el.querySelectorAll('.history-state').forEach(item=>{const a=Number(item.dataset.at),b=Number(item.dataset.until);tl.fromTo(item,{opacity:0},{opacity:1,duration:.08,immediateRender:false},a);tl.to(item,{opacity:0,duration:.06},b-.06);});
+el.querySelectorAll('.barfill').forEach((item,k)=>tl.fromTo(item,{scaleX:0},{scaleX:Number(item.dataset.ratio),duration:1.1,ease:'power2.out'},.5+k*.3));
+window.__timelines['e1-s1']=tl;})();
+</script></template></body></html>

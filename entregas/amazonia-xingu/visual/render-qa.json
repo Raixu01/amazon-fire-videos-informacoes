@@ -1,0 +1,591 @@
+{
+  "composition": "PulsoAmazoniaXingu",
+  "frames": [
+    90,
+    255,
+    405,
+    555,
+    705,
+    855,
+    1005,
+    1155,
+    1305,
+    1455,
+    1620,
+    1709,
+    1755,
+    1845,
+    2715,
+    2805,
+    2865,
+    3615,
+    3645,
+    3765,
+    3840,
+    4020,
+    4200,
+    4390
+  ],
+  "logs": [],
+  "measurements": [
+    {
+      "frame": 90,
+      "scene": "abertura",
+      "maps": [
+        {
+          "id": "opening",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 255,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 405,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 555,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 705,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 855,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1005,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1155,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1305,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1455,
+      "scene": "historico_duplo",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "history-10",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1620,
+      "scene": "zoom_xingu",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "zoom",
+          "municipalities": 773,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1709,
+      "scene": "zoom_xingu",
+      "maps": [
+        {
+          "id": "history-9",
+          "municipalities": 773,
+          "points": 0
+        },
+        {
+          "id": "zoom",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1755,
+      "scene": "titulo_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 1845,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 9
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 2715,
+      "scene": "diario_setembro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 5
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 2805,
+      "scene": "titulo_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 2865,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 138
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 3615,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 12
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 3645,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 3765,
+      "scene": "diario_outubro",
+      "maps": [
+        {
+          "id": "daily",
+          "municipalities": 10,
+          "points": 0
+        }
+      ],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 3840,
+      "scene": "comparativo",
+      "maps": [],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": -999999,
+        "width": 1920,
+        "height": 1080,
+        "top": -999999,
+        "right": 1920,
+        "bottom": -998919,
+        "left": 0
+      }
+    },
+    {
+      "frame": 4020,
+      "scene": "comparativo",
+      "maps": [],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 4200,
+      "scene": "comparativo",
+      "maps": [],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    },
+    {
+      "frame": 4390,
+      "scene": "creditos",
+      "maps": [],
+      "outsideText": [],
+      "canvas": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    }
+  ]
+}

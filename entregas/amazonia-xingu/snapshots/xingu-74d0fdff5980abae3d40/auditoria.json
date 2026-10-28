@@ -1,0 +1,5688 @@
+{
+  "snapshot_id": "xingu-74d0fdff5980abae3d40",
+  "fontes": [
+    {
+      "arquivo": "focos_br_ref_2018.zip",
+      "fonte_id": 1,
+      "linhas_lidas": 132870,
+      "linhas_sensor_periodo": 61819,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 61819,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_br_ref_2019.zip",
+      "fonte_id": 2,
+      "linhas_lidas": 197632,
+      "linhas_sensor_periodo": 78847,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 78847,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_br_ref_2020.zip",
+      "fonte_id": 3,
+      "linhas_lidas": 222797,
+      "linhas_sensor_periodo": 110797,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 110797,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_br_ref_2021.zip",
+      "fonte_id": 4,
+      "linhas_lidas": 184081,
+      "linhas_sensor_periodo": 78171,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 78171,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_br_ref_2022.zip",
+      "fonte_id": 5,
+      "linhas_lidas": 200763,
+      "linhas_sensor_periodo": 92443,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 92443,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_br_ref_2023.zip",
+      "fonte_id": 6,
+      "linhas_lidas": 189901,
+      "linhas_sensor_periodo": 86178,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 86178,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_br_ref_2024.zip",
+      "fonte_id": 7,
+      "linhas_lidas": 278299,
+      "linhas_sensor_periodo": 116510,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 116510,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_br_ref_2025.zip",
+      "fonte_id": 8,
+      "linhas_lidas": 136393,
+      "linhas_sensor_periodo": 56892,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 56892,
+      "sensor_documental": true
+    },
+    {
+      "arquivo": "focos_mensal_br_202609.csv",
+      "fonte_id": 9,
+      "linhas_lidas": 777214,
+      "linhas_sensor_periodo": 24382,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 24382,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_mensal_br_202610.csv",
+      "fonte_id": 10,
+      "linhas_lidas": 817859,
+      "linhas_sensor_periodo": 27925,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 27925,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20260926.csv",
+      "fonte_id": 11,
+      "linhas_lidas": 15734,
+      "linhas_sensor_periodo": 655,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 655,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20260927.csv",
+      "fonte_id": 12,
+      "linhas_lidas": 22839,
+      "linhas_sensor_periodo": 541,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 541,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20260928.csv",
+      "fonte_id": 13,
+      "linhas_lidas": 30031,
+      "linhas_sensor_periodo": 1452,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1452,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20260929.csv",
+      "fonte_id": 14,
+      "linhas_lidas": 27104,
+      "linhas_sensor_periodo": 490,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 490,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20260930.csv",
+      "fonte_id": 15,
+      "linhas_lidas": 28022,
+      "linhas_sensor_periodo": 991,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 991,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261001.csv",
+      "fonte_id": 16,
+      "linhas_lidas": 30684,
+      "linhas_sensor_periodo": 1239,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1239,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261002.csv",
+      "fonte_id": 17,
+      "linhas_lidas": 21563,
+      "linhas_sensor_periodo": 514,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 514,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261003.csv",
+      "fonte_id": 18,
+      "linhas_lidas": 15946,
+      "linhas_sensor_periodo": 772,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 772,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261004.csv",
+      "fonte_id": 19,
+      "linhas_lidas": 19481,
+      "linhas_sensor_periodo": 808,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 808,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261005.csv",
+      "fonte_id": 20,
+      "linhas_lidas": 23394,
+      "linhas_sensor_periodo": 703,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 703,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261006.csv",
+      "fonte_id": 21,
+      "linhas_lidas": 36292,
+      "linhas_sensor_periodo": 1823,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1823,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261007.csv",
+      "fonte_id": 22,
+      "linhas_lidas": 52148,
+      "linhas_sensor_periodo": 169,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 169,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261008.csv",
+      "fonte_id": 23,
+      "linhas_lidas": 66801,
+      "linhas_sensor_periodo": 1914,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1914,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261009.csv",
+      "fonte_id": 24,
+      "linhas_lidas": 62753,
+      "linhas_sensor_periodo": 2001,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 2001,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261010.csv",
+      "fonte_id": 25,
+      "linhas_lidas": 45285,
+      "linhas_sensor_periodo": 1155,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1155,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261011.csv",
+      "fonte_id": 26,
+      "linhas_lidas": 35704,
+      "linhas_sensor_periodo": 150,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 150,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261012.csv",
+      "fonte_id": 27,
+      "linhas_lidas": 27117,
+      "linhas_sensor_periodo": 1401,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1401,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261013.csv",
+      "fonte_id": 28,
+      "linhas_lidas": 28484,
+      "linhas_sensor_periodo": 1050,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1050,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261014.csv",
+      "fonte_id": 29,
+      "linhas_lidas": 41874,
+      "linhas_sensor_periodo": 2177,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 2177,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261015.csv",
+      "fonte_id": 30,
+      "linhas_lidas": 35850,
+      "linhas_sensor_periodo": 569,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 569,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261016.csv",
+      "fonte_id": 31,
+      "linhas_lidas": 36905,
+      "linhas_sensor_periodo": 1142,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1142,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261017.csv",
+      "fonte_id": 32,
+      "linhas_lidas": 32285,
+      "linhas_sensor_periodo": 1226,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1226,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261018.csv",
+      "fonte_id": 33,
+      "linhas_lidas": 12950,
+      "linhas_sensor_periodo": 222,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 222,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261019.csv",
+      "fonte_id": 34,
+      "linhas_lidas": 11602,
+      "linhas_sensor_periodo": 1011,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1011,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261020.csv",
+      "fonte_id": 35,
+      "linhas_lidas": 14005,
+      "linhas_sensor_periodo": 399,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 399,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261021.csv",
+      "fonte_id": 36,
+      "linhas_lidas": 20386,
+      "linhas_sensor_periodo": 1237,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1237,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261022.csv",
+      "fonte_id": 37,
+      "linhas_lidas": 28869,
+      "linhas_sensor_periodo": 1933,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1933,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261023.csv",
+      "fonte_id": 38,
+      "linhas_lidas": 29033,
+      "linhas_sensor_periodo": 487,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 487,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261024.csv",
+      "fonte_id": 39,
+      "linhas_lidas": 39041,
+      "linhas_sensor_periodo": 2178,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 2178,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261025.csv",
+      "fonte_id": 40,
+      "linhas_lidas": 30403,
+      "linhas_sensor_periodo": 1177,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 1177,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261026.csv",
+      "fonte_id": 41,
+      "linhas_lidas": 17962,
+      "linhas_sensor_periodo": 468,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 468,
+      "sensor_documental": false
+    },
+    {
+      "arquivo": "focos_diario_br_20261027.csv",
+      "fonte_id": 42,
+      "linhas_lidas": 5866,
+      "linhas_sensor_periodo": 0,
+      "duplicatas_internas": 0,
+      "linhas_unicas_sensor_periodo": 0,
+      "sensor_documental": false
+    }
+  ],
+  "espacial": {
+    "pontos_entrada": 733964,
+    "fora_territorio": 258952,
+    "pontos_ambiguos": 0,
+    "criterio_fronteira": "menor_codigo_ibge_sem_buffer",
+    "amostra_ambiguidades": [],
+    "aceitos": 475012
+  },
+  "linhas_sensor_periodo": 766018,
+  "duplicatas_entre_fontes": 32054,
+  "focos_unicos_nacionais_periodo": 733964,
+  "focos_amazonia_legal": 475012,
+  "vinculos_linhagem": 496797,
+  "focos_sem_linhagem": 0,
+  "divergencias_mensal_diario": [],
+  "cobertura_dias": [
+    {
+      "data_utc": "2018-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2018-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2018-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        1
+      ]
+    },
+    {
+      "data_utc": "2019-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2019-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2019-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        2
+      ]
+    },
+    {
+      "data_utc": "2020-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2020-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2020-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        3
+      ]
+    },
+    {
+      "data_utc": "2021-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2021-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2021-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        4
+      ]
+    },
+    {
+      "data_utc": "2022-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2022-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2022-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        5
+      ]
+    },
+    {
+      "data_utc": "2023-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2023-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2023-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        6
+      ]
+    },
+    {
+      "data_utc": "2024-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2024-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2024-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        7
+      ]
+    },
+    {
+      "data_utc": "2025-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-10-31T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2025-10-31",
+      "estado": "validado",
+      "fim_coberto_utc": "2025-11-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        8
+      ]
+    },
+    {
+      "data_utc": "2026-09-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        11,
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-27",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-28T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        12,
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-28",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-29T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        13,
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-29",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-09-30T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        14,
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-09-30",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-01T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        15,
+        9
+      ]
+    },
+    {
+      "data_utc": "2026-10-01",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-02T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        16,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-02",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-03T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        17,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-03",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-04T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        18,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-04",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-05T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        19,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-05",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-06T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        20,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-06",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-07T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        21,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-07",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-08T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        22,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-08",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-09T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        23,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-09",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-10T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        24,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-10",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-11T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        25,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-11",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-12T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        26,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-12",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-13T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        27,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-13",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-14T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        28,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-14",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-15T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        29,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-15",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-16T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        30,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-16",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-17T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        31,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-17",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-18T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        32,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-18",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-19T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        33,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-19",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-20T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        34,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-20",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-21T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        35,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-21",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-22T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        36,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-22",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-23T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        37,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-23",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-24T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        38,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-24",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-25T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        39,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-25",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-26T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        40,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-26",
+      "estado": "validado",
+      "fim_coberto_utc": "2026-10-27T00:00:00+00:00",
+      "justificativa": "Ingestão de produto fechado validada; não certifica aquisição sob nuvens ou todas as passagens.",
+      "fontes": [
+        41,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-27",
+      "estado": "nao_validado",
+      "fim_coberto_utc": null,
+      "justificativa": "Dia fora do corte de dias fechados deste snapshot.",
+      "fontes": [
+        42,
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-28",
+      "estado": "futuro",
+      "fim_coberto_utc": null,
+      "justificativa": "Dia posterior à data da coleta.",
+      "fontes": [
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-29",
+      "estado": "futuro",
+      "fim_coberto_utc": null,
+      "justificativa": "Dia posterior à data da coleta.",
+      "fontes": [
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-30",
+      "estado": "futuro",
+      "fim_coberto_utc": null,
+      "justificativa": "Dia posterior à data da coleta.",
+      "fontes": [
+        10
+      ]
+    },
+    {
+      "data_utc": "2026-10-31",
+      "estado": "futuro",
+      "fim_coberto_utc": null,
+      "justificativa": "Dia posterior à data da coleta.",
+      "fontes": [
+        10
+      ]
+    }
+  ],
+  "sensor_evidencia": {
+    "versao": 1,
+    "sensor": "AQUA_M-T",
+    "anos_permitidos": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "produto_url": "https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_sat_ref/",
+    "documentacao_url": "https://data.inpe.br/queimadas/faq/",
+    "secao": "7. O que é o satélite de referência?",
+    "consultado_em": "2026-10-27",
+    "interpretacao": "A documentação do INPE identifica AQUA_M-T como referência após julho de 2002. Esta associação documental aplica-se aos arquivos históricos do produto Brasil_sat_ref coletados para 2018–2025; não equivale à existência de identificação de sensor em cada linha.",
+    "evidencia_por_linha": false,
+    "restricao": "Bloquear atribuição documental para outro produto, sensor ou ano. Arquivos operacionais devem declarar o sensor em cada observação."
+  },
+  "validacao": "integridade, ingestao dos produtos e consistencia espacial/temporal; nao valida deteccao sob nuvens",
+  "linhas_historico": 13914,
+  "linhas_diario_xingu": 610,
+  "focos_xingu_2026": 3688,
+  "comparativos": [
+    {
+      "periodo": "setembro",
+      "parcial": false,
+      "inicio_atual_utc": "2026-09-01T00:00:00+00:00",
+      "fim_atual_exclusivo_utc": "2026-10-01T00:00:00+00:00",
+      "estado": "validado",
+      "atual": 1006,
+      "anterior": 527,
+      "diferenca": 479,
+      "variacao_pct": 90.89,
+      "municipios": [
+        {
+          "codigo_ibge": "1500602",
+          "atual": 524,
+          "anterior": 252,
+          "diferenca": 272,
+          "variacao_pct": 107.94,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1500859",
+          "atual": 87,
+          "anterior": 24,
+          "diferenca": 63,
+          "variacao_pct": 262.5,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1501725",
+          "atual": 3,
+          "anterior": 22,
+          "diferenca": -19,
+          "variacao_pct": -86.36,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1504455",
+          "atual": 16,
+          "anterior": 30,
+          "diferenca": -14,
+          "variacao_pct": -46.67,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505486",
+          "atual": 107,
+          "anterior": 47,
+          "diferenca": 60,
+          "variacao_pct": 127.66,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505650",
+          "atual": 88,
+          "anterior": 36,
+          "diferenca": 52,
+          "variacao_pct": 144.44,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505908",
+          "atual": 26,
+          "anterior": 8,
+          "diferenca": 18,
+          "variacao_pct": 225.0,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1507805",
+          "atual": 59,
+          "anterior": 50,
+          "diferenca": 9,
+          "variacao_pct": 18.0,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508159",
+          "atual": 91,
+          "anterior": 43,
+          "diferenca": 48,
+          "variacao_pct": 111.63,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508357",
+          "atual": 5,
+          "anterior": 15,
+          "diferenca": -10,
+          "variacao_pct": -66.67,
+          "base_zero": false
+        }
+      ],
+      "inicio_anterior_utc": "2025-09-01T00:00:00+00:00",
+      "fim_anterior_exclusivo_utc": "2025-10-01T00:00:00+00:00",
+      "base_zero": false
+    },
+    {
+      "periodo": "outubro",
+      "parcial": true,
+      "inicio_atual_utc": "2026-10-01T00:00:00+00:00",
+      "fim_atual_exclusivo_utc": "2026-10-27T00:00:00+00:00",
+      "estado": "validado",
+      "atual": 2682,
+      "anterior": 586,
+      "diferenca": 2096,
+      "variacao_pct": 357.68,
+      "municipios": [
+        {
+          "codigo_ibge": "1500602",
+          "atual": 680,
+          "anterior": 119,
+          "diferenca": 561,
+          "variacao_pct": 471.43,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1500859",
+          "atual": 174,
+          "anterior": 93,
+          "diferenca": 81,
+          "variacao_pct": 87.1,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1501725",
+          "atual": 5,
+          "anterior": 9,
+          "diferenca": -4,
+          "variacao_pct": -44.44,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1504455",
+          "atual": 95,
+          "anterior": 43,
+          "diferenca": 52,
+          "variacao_pct": 120.93,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505486",
+          "atual": 338,
+          "anterior": 108,
+          "diferenca": 230,
+          "variacao_pct": 212.96,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505650",
+          "atual": 346,
+          "anterior": 13,
+          "diferenca": 333,
+          "variacao_pct": 2561.54,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505908",
+          "atual": 92,
+          "anterior": 13,
+          "diferenca": 79,
+          "variacao_pct": 607.69,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1507805",
+          "atual": 113,
+          "anterior": 126,
+          "diferenca": -13,
+          "variacao_pct": -10.32,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508159",
+          "atual": 821,
+          "anterior": 51,
+          "diferenca": 770,
+          "variacao_pct": 1509.8,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508357",
+          "atual": 18,
+          "anterior": 11,
+          "diferenca": 7,
+          "variacao_pct": 63.64,
+          "base_zero": false
+        }
+      ],
+      "inicio_anterior_utc": "2025-10-01T00:00:00+00:00",
+      "fim_anterior_exclusivo_utc": "2025-10-27T00:00:00+00:00",
+      "base_zero": false
+    },
+    {
+      "periodo": "conjunto",
+      "parcial": true,
+      "inicio_atual_utc": "2026-09-01T00:00:00+00:00",
+      "fim_atual_exclusivo_utc": "2026-10-27T00:00:00+00:00",
+      "estado": "validado",
+      "atual": 3688,
+      "anterior": 1113,
+      "diferenca": 2575,
+      "variacao_pct": 231.36,
+      "municipios": [
+        {
+          "codigo_ibge": "1500602",
+          "atual": 1204,
+          "anterior": 371,
+          "diferenca": 833,
+          "variacao_pct": 224.53,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1500859",
+          "atual": 261,
+          "anterior": 117,
+          "diferenca": 144,
+          "variacao_pct": 123.08,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1501725",
+          "atual": 8,
+          "anterior": 31,
+          "diferenca": -23,
+          "variacao_pct": -74.19,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1504455",
+          "atual": 111,
+          "anterior": 73,
+          "diferenca": 38,
+          "variacao_pct": 52.05,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505486",
+          "atual": 445,
+          "anterior": 155,
+          "diferenca": 290,
+          "variacao_pct": 187.1,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505650",
+          "atual": 434,
+          "anterior": 49,
+          "diferenca": 385,
+          "variacao_pct": 785.71,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1505908",
+          "atual": 118,
+          "anterior": 21,
+          "diferenca": 97,
+          "variacao_pct": 461.9,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1507805",
+          "atual": 172,
+          "anterior": 176,
+          "diferenca": -4,
+          "variacao_pct": -2.27,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508159",
+          "atual": 912,
+          "anterior": 94,
+          "diferenca": 818,
+          "variacao_pct": 870.21,
+          "base_zero": false
+        },
+        {
+          "codigo_ibge": "1508357",
+          "atual": 23,
+          "anterior": 26,
+          "diferenca": -3,
+          "variacao_pct": -11.54,
+          "base_zero": false
+        }
+      ],
+      "inicio_anterior_utc": "2025-09-01T00:00:00+00:00",
+      "fim_anterior_exclusivo_utc": "2025-10-27T00:00:00+00:00",
+      "base_zero": false
+    }
+  ]
+}
